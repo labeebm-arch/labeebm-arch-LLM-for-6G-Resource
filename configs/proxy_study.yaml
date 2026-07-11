@@ -1,0 +1,8 @@
+scenarios: [1, 2, 3, 4, 5, 6, 7, 8]
+budget: 60
+repetitions: 30
+seed: 20260610
+mock: false
+ollama:
+  url: "http://localhost:11434"
+  model: "llama3:8b"

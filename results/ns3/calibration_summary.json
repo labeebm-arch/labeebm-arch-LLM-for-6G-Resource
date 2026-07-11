@@ -1,0 +1,9 @@
+{
+  "source": "Reported packet-level calibration values from the final manuscript; regenerate raw pairs with scripts/run_ns3_validation.py without --no-calib.",
+  "n_configurations_per_scenario": 15,
+  "spearman_rho": {
+    "1": 0.65,
+    "2": 0.59,
+    "4": 0.70
+  }
+}

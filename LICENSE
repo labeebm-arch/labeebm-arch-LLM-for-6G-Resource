@@ -1,0 +1,22 @@
+This repository contains material under multiple licenses.
+
+1. Python software
+   Files under `src/`, `scripts/`, and `tests/`, together with the Python
+   configuration files, are licensed under the MIT License. See
+   `LICENSES/MIT.txt`.
+
+2. ns-3/5G-LENA integration
+   `ns3/cttc-nr-llm6g.cc` is licensed under GNU GPL version 2 only
+   (`GPL-2.0-only`). See `LICENSES/GPL-2.0-only.txt`.
+
+3. Research artifacts
+   Original result data, CSV tables, documentation, and generated/manuscript
+   figures in this repository are licensed under Creative Commons Attribution
+   4.0 International (`CC-BY-4.0`). See `LICENSES/CC-BY-4.0.txt`.
+
+4. Third-party material and the article
+   Third-party software remains under its own license. The submitted or
+   published article is not included in this repository and is governed by the
+   journal's publication terms.
+
+Copyright (c) 2026 Authors of the accompanying manuscript and contributors.

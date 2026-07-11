@@ -1,0 +1,16 @@
+* text=auto
+*.docx binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.json text eol=lf
+*.py text eol=lf
+*.md text eol=lf
+*.yaml text eol=lf
+*.yml text eol=lf
+*.toml text eol=lf
+*.cff text eol=lf
+*.csv text eol=lf
+*.txt text eol=lf
+*.cc text eol=lf
+*.sha256 text eol=lf

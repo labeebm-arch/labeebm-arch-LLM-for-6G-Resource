@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "description": "Exact historical ten-configuration seed banks used by the 30-repetition prior-guided experiments in manuscript Tables 4-6.",
+  "protocol": {
+    "configuration_cycle": 10,
+    "mapping": "seeded repetition r uses stored LLM-fewshot configuration index r mod 10",
+    "optimizer_seed": "20260610 + r",
+    "model_seed_bank_repetitions": 10,
+    "table3_model_campaign_repetitions": 30
+  },
+  "source_archive": {
+    "filename": "final_maaed.zip",
+    "sha256": "5096aa4d5f382bbc662ac80be0f6732369c0e08448a76e46e0c3195d76b4df6f"
+  },
+  "files": {
+    "llama3_8b": {
+      "path": "results/seed_bank/llama3_8b/hard_comparison_results.json",
+      "sha256": "2e57250f553cf3504d594f0f52ed9d6e29e9af93f04adecb3a2b3554e46081ff",
+      "model_tag": "llama3:8b",
+      "repetitions": 10,
+      "base_seed": 20260610,
+      "mock": false,
+      "scenarios": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ]
+    },
+    "qwen2.5_7b-instruct-q5_K_M": {
+      "path": "results/seed_bank/qwen2.5_7b-instruct-q5_K_M/hard_comparison_results.json",
+      "sha256": "ca2d77acbecd1c76856891e69e7309abcef4aa23a58a506fc363a293eb6fd2a8",
+      "model_tag": "qwen2.5:7b-instruct-q5_K_M",
+      "repetitions": 10,
+      "base_seed": 20260610,
+      "mock": false,
+      "scenarios": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ]
+    }
+  }
+}

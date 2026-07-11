@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "Please cite the accompanying manuscript and this software release."
+title: "Large Language Model Priors for 6G Resource Allocation"
+type: software
+version: 1.0.3
+date-released: 2026-07-11
+authors:
+  - name: "Authors of the accompanying manuscript"
+license: MIT
+keywords:
+  - 6G
+  - resource allocation
+  - large language models
+  - prior-guided optimization
+  - particle swarm optimization

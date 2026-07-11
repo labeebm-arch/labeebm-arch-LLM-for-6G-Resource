@@ -1,0 +1,9 @@
+Scenario,GA,PSO,DE,Bayesian,Random
+Dense urban eMBB,39.0,40.0,42.0,17.5,52.0
+Highway URLLC,6.0,6.0,6.0,6.0,6.0
+Indoor hotspot eMBB,48.5,23.0,54.5,22.0,36.5
+Rural mMTC,3.0,3.0,3.0,3.0,3.0
+Stadium eMBB burst,>60,54.5,>60,42.0,>60
+Factory URLLC,13.5,13.0,16.5,11.0,16.5
+Suburban eMBB,28.5,20.0,41.0,19.0,24.5
+Smart-grid mMTC,47.5,30.0,>60,32.5,>60

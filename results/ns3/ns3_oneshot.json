@@ -1,0 +1,44 @@
+{
+ "1": {
+  "name": "Dense urban eMBB",
+  "heuristic": 73.06996043946738,
+  "random_mean": 58.373395261546456,
+  "random_max": 68.97108024808244,
+  "oneshot": {
+   "zeroshot_llama": 61.48440003901286,
+   "fewshot_llama": 73.54823866643922,
+   "zeroshot_qwen": 69.49507498016028,
+   "fewshot_qwen": 73.52927494894753
+  },
+  "best_oneshot": "fewshot_llama",
+  "best_oneshot_score": 73.54823866643922
+ },
+ "2": {
+  "name": "Highway URLLC",
+  "heuristic": 53.91967673994371,
+  "random_mean": 49.27752636502159,
+  "random_max": 64.41433316575613,
+  "oneshot": {
+   "zeroshot_llama": 45.06109570927449,
+   "fewshot_llama": 51.12647533485801,
+   "zeroshot_qwen": 50.663513595155486,
+   "fewshot_qwen": 52.14973647185656
+  },
+  "best_oneshot": "fewshot_qwen",
+  "best_oneshot_score": 52.14973647185656
+ },
+ "4": {
+  "name": "Rural mMTC",
+  "heuristic": 57.787575437615544,
+  "random_mean": 51.281861570916725,
+  "random_max": 77.64116521265804,
+  "oneshot": {
+   "zeroshot_llama": 48.68220126201607,
+   "fewshot_llama": 66.91603953623915,
+   "zeroshot_qwen": 62.737934315365194,
+   "fewshot_qwen": 73.97383648983569
+  },
+  "best_oneshot": "fewshot_qwen",
+  "best_oneshot_score": 73.97383648983569
+ }
+}

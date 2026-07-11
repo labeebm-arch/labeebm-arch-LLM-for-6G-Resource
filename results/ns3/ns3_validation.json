@@ -1,0 +1,76 @@
+{
+ "calibration": {
+  "reused_capacity": {
+   "1": 124.61477000000001,
+   "2": 139.05710000000002,
+   "4": 97.88387
+  }
+ },
+ "config": {
+  "scenarios": "1,2,4",
+  "reps": 3,
+  "budget": 60,
+  "jobs": 12,
+  "calib_random": 12,
+  "calib_only": false,
+  "no_calib": true,
+  "use_ollama": false,
+  "ollama_url": "http://localhost:11434",
+  "llama_model": "llama3:8b",
+  "qwen_model": "qwen2.5:7b-instruct-q5_K_M",
+  "out": "results/ns3_validation.json"
+ },
+ "comparison": {
+  "1": {
+   "name": "Dense urban eMBB",
+   "heuristic": 73.06996043946738,
+   "cold_PSO_final": 91.6024633009215,
+   "cold_Bayesian_final": 89.19233379996099,
+   "best_cold_final": 91.6024633009215,
+   "prior_guided_final": 86.05492184231241,
+   "prior_guided_finals": [
+    82.18883859187255,
+    91.92920878779543,
+    84.04671814726926
+   ],
+   "anytime_vs_cold_envelope": 0.2833333333333333,
+   "pass_eval": 61,
+   "beats_best_cold": false,
+   "beats_heuristic": true
+  },
+  "2": {
+   "name": "Highway URLLC",
+   "heuristic": 53.91967673994371,
+   "cold_PSO_final": 77.58134110121449,
+   "cold_Bayesian_final": 77.50504303563002,
+   "best_cold_final": 77.58134110121449,
+   "prior_guided_final": 78.26283429763028,
+   "prior_guided_finals": [
+    78.9851093388822,
+    76.72156982725643,
+    79.0818237267522
+   ],
+   "anytime_vs_cold_envelope": 0.7833333333333333,
+   "pass_eval": 36,
+   "beats_best_cold": true,
+   "beats_heuristic": true
+  },
+  "4": {
+   "name": "Rural mMTC",
+   "heuristic": 57.787575437615544,
+   "cold_PSO_final": 85.59451868350881,
+   "cold_Bayesian_final": 85.40598567154801,
+   "best_cold_final": 85.59451868350881,
+   "prior_guided_final": 87.16491672968507,
+   "prior_guided_finals": [
+    80.96131117871384,
+    89.23851076204818,
+    91.2949282482932
+   ],
+   "anytime_vs_cold_envelope": 0.9333333333333333,
+   "pass_eval": 45,
+   "beats_best_cold": true,
+   "beats_heuristic": true
+  }
+ }
+}
