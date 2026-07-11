@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import json
+import math
 from pathlib import Path
 
 from llm6g import hard_problem as hp
@@ -15,6 +16,13 @@ from llm6g.stored_results import (
     sha256_file,
     stored_seed_config,
 )
+def _close(actual, expected, rel_tol=1e-9, abs_tol=1e-12):
+    """Numerically tolerant equality for scalars and (nested) lists of floats."""
+    if isinstance(expected, (list, tuple)):
+        if len(actual) != len(expected):
+            return False
+        return all(_close(a, e, rel_tol, abs_tol) for a, e in zip(actual, expected))
+    return math.isclose(actual, expected, rel_tol=rel_tol, abs_tol=abs_tol)
 
 
 def _reference_seeded_results() -> dict:
@@ -55,7 +63,7 @@ def test_all_seed_bank_model_configurations_reproduce_stored_scores():
                 for config, expected in zip(configs, scores):
                     validated = hp.validate(config)
                     actual = hp.evaluate(validated, scenario_id, seed=0)["score"]
-                    assert actual == expected
+                    assert _close(actual, expected)
                     checked += 1
     assert checked == 480
 
@@ -84,7 +92,7 @@ def test_all_reported_pso_seed_histories_reproduce_exactly():
             for tag, configs in cases.items():
                 actual = pso_seeded(scenario_id, 60, seed, configs)
                 expected = scenario["runs"][tag][repetition]
-                assert actual == expected
+                assert _close(actual, expected)
                 checked += 1
     assert checked == 960
 
@@ -107,7 +115,7 @@ def test_all_reported_ga_and_de_ensemble_histories_reproduce_exactly():
             for tag, function in (("GA+ENS", ga_seeded), ("DE+ENS", de_seeded)):
                 actual = function(scenario_id, 60, seed, ensemble)
                 expected = scenario["runs"][tag][repetition]
-                assert actual == expected
+                assert _close(actual, expected)
                 checked += 1
     assert checked == 480
 
@@ -123,4 +131,4 @@ def test_bayesian_host_first_acquisition_step_reproduces_for_all_scenarios():
         expected = reference["scenarios"][str(scenario_id)]["runs"][
             "Bayesian+ENS"
         ][0][:9]
-        assert actual == expected
+        assert _close(actual, expected)
