@@ -13,7 +13,7 @@ from scripts.run_proxy_study import resolve_config_path
 def test_package_version_matches_pyproject():
     with (REPO_ROOT / "pyproject.toml").open("rb") as handle:
         version = tomllib.load(handle)["project"]["version"]
-    assert llm6g.__version__ == version == "1.0.3"
+    assert llm6g.__version__ == version == "1.0.5"
 
 
 def test_default_config_resolves_outside_repository(tmp_path, monkeypatch):

@@ -2,7 +2,7 @@
 
 This repository accompanies the manuscript:
 
-> **Engineer-Free Priors from Large Language Models for 6G Resource Allocation**
+> **Language-Model Priors for Resource Allocation in 6G Mobile Networks**
 
 The submitted manuscript file is intentionally not distributed in the code
 repository. Its publication and reuse are governed separately by the journal's
@@ -22,7 +22,9 @@ that code and stored results can be checked without bundling the manuscript.
 | Appendix B | Per-baseline matching evaluations in the 30-run model campaigns |
 | Appendix C | `results/model_campaigns/best_configurations_table_c.json` |
 | Figure 1 | `results/prior_ns3/figure1_histories.json` |
-| Figures 3--5 | `scripts/reproduce_outputs.py` and the stored result files |
+| Figures 3--5 | `scripts/reproduce_outputs.py` and the stored result files (2 x 4 layout) |
+| Figures 3 and 5 as published | `figures/manuscript/source/extract_fig_data.py` and `plot_fig3_fig5.py` (4 x 2 layout, same stored results) |
+| Figure 2 | `figures/manuscript/source/fig2_methodology.drawio` |
 
 ## Two distinct model-result collections
 

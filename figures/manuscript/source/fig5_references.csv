@@ -1,0 +1,9 @@
+scenario_id,scenario,heuristic,best_cold_final,pass_eval
+1,Dense urban eMBB,83.3331,69.5247,3
+2,Highway URLLC,86.0742,91.2318,25
+3,Indoor hotspot eMBB,74.7543,73.662,3
+4,Rural mMTC,84.681,92.7338,28
+5,Stadium eMBB burst,74.2627,64.1277,3
+6,Factory URLLC,83.6288,87.4366,22
+7,Suburban eMBB,90.1264,90.5907,15
+8,Smart-grid mMTC,85.1459,91.104,28

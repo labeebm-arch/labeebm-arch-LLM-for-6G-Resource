@@ -1,0 +1,2401 @@
+scenario_id,scenario,series,evaluation,score
+1,Dense urban eMBB,GA,1,13.22
+1,Dense urban eMBB,GA,2,20.7039
+1,Dense urban eMBB,GA,3,27.3457
+1,Dense urban eMBB,GA,4,28.7337
+1,Dense urban eMBB,GA,5,36.4377
+1,Dense urban eMBB,GA,6,40.9336
+1,Dense urban eMBB,GA,7,44.7883
+1,Dense urban eMBB,GA,8,45.5846
+1,Dense urban eMBB,GA,9,48.3675
+1,Dense urban eMBB,GA,10,49.0033
+1,Dense urban eMBB,GA,11,49.4846
+1,Dense urban eMBB,GA,12,49.876
+1,Dense urban eMBB,GA,13,50.829
+1,Dense urban eMBB,GA,14,50.829
+1,Dense urban eMBB,GA,15,51.4891
+1,Dense urban eMBB,GA,16,51.4957
+1,Dense urban eMBB,GA,17,51.5882
+1,Dense urban eMBB,GA,18,51.8239
+1,Dense urban eMBB,GA,19,52.8145
+1,Dense urban eMBB,GA,20,53.7944
+1,Dense urban eMBB,GA,21,55.3103
+1,Dense urban eMBB,GA,22,55.6903
+1,Dense urban eMBB,GA,23,56.953
+1,Dense urban eMBB,GA,24,57.0005
+1,Dense urban eMBB,GA,25,57.397
+1,Dense urban eMBB,GA,26,57.4763
+1,Dense urban eMBB,GA,27,57.5983
+1,Dense urban eMBB,GA,28,57.6697
+1,Dense urban eMBB,GA,29,57.6893
+1,Dense urban eMBB,GA,30,57.6893
+1,Dense urban eMBB,GA,31,57.7611
+1,Dense urban eMBB,GA,32,57.9594
+1,Dense urban eMBB,GA,33,57.9875
+1,Dense urban eMBB,GA,34,58.0749
+1,Dense urban eMBB,GA,35,59.1021
+1,Dense urban eMBB,GA,36,59.2245
+1,Dense urban eMBB,GA,37,59.2992
+1,Dense urban eMBB,GA,38,59.4969
+1,Dense urban eMBB,GA,39,59.5005
+1,Dense urban eMBB,GA,40,59.615
+1,Dense urban eMBB,GA,41,59.6675
+1,Dense urban eMBB,GA,42,59.9049
+1,Dense urban eMBB,GA,43,60.3256
+1,Dense urban eMBB,GA,44,60.412
+1,Dense urban eMBB,GA,45,60.5907
+1,Dense urban eMBB,GA,46,60.7784
+1,Dense urban eMBB,GA,47,60.8739
+1,Dense urban eMBB,GA,48,60.8739
+1,Dense urban eMBB,GA,49,60.9469
+1,Dense urban eMBB,GA,50,60.9829
+1,Dense urban eMBB,GA,51,61.3059
+1,Dense urban eMBB,GA,52,61.4905
+1,Dense urban eMBB,GA,53,61.594
+1,Dense urban eMBB,GA,54,61.6563
+1,Dense urban eMBB,GA,55,61.6563
+1,Dense urban eMBB,GA,56,61.6879
+1,Dense urban eMBB,GA,57,61.6945
+1,Dense urban eMBB,GA,58,61.8516
+1,Dense urban eMBB,GA,59,61.9572
+1,Dense urban eMBB,GA,60,62.0404
+1,Dense urban eMBB,PSO,1,13.22
+1,Dense urban eMBB,PSO,2,20.7039
+1,Dense urban eMBB,PSO,3,27.3457
+1,Dense urban eMBB,PSO,4,28.7337
+1,Dense urban eMBB,PSO,5,36.4377
+1,Dense urban eMBB,PSO,6,40.9336
+1,Dense urban eMBB,PSO,7,44.7883
+1,Dense urban eMBB,PSO,8,45.5846
+1,Dense urban eMBB,PSO,9,48.3675
+1,Dense urban eMBB,PSO,10,49.0033
+1,Dense urban eMBB,PSO,11,49.5783
+1,Dense urban eMBB,PSO,12,51.1229
+1,Dense urban eMBB,PSO,13,52.8796
+1,Dense urban eMBB,PSO,14,53.193
+1,Dense urban eMBB,PSO,15,53.4177
+1,Dense urban eMBB,PSO,16,53.9342
+1,Dense urban eMBB,PSO,17,54.3492
+1,Dense urban eMBB,PSO,18,54.7502
+1,Dense urban eMBB,PSO,19,55.8732
+1,Dense urban eMBB,PSO,20,56.5498
+1,Dense urban eMBB,PSO,21,56.966
+1,Dense urban eMBB,PSO,22,57.4583
+1,Dense urban eMBB,PSO,23,57.7152
+1,Dense urban eMBB,PSO,24,58.9778
+1,Dense urban eMBB,PSO,25,59.7175
+1,Dense urban eMBB,PSO,26,59.891
+1,Dense urban eMBB,PSO,27,60.079
+1,Dense urban eMBB,PSO,28,60.4031
+1,Dense urban eMBB,PSO,29,60.5053
+1,Dense urban eMBB,PSO,30,60.8827
+1,Dense urban eMBB,PSO,31,61.3558
+1,Dense urban eMBB,PSO,32,61.5951
+1,Dense urban eMBB,PSO,33,62.0126
+1,Dense urban eMBB,PSO,34,62.2654
+1,Dense urban eMBB,PSO,35,62.5755
+1,Dense urban eMBB,PSO,36,62.7886
+1,Dense urban eMBB,PSO,37,63.1019
+1,Dense urban eMBB,PSO,38,63.2698
+1,Dense urban eMBB,PSO,39,63.3649
+1,Dense urban eMBB,PSO,40,63.4859
+1,Dense urban eMBB,PSO,41,63.9467
+1,Dense urban eMBB,PSO,42,64.5396
+1,Dense urban eMBB,PSO,43,64.6066
+1,Dense urban eMBB,PSO,44,64.8461
+1,Dense urban eMBB,PSO,45,65.1398
+1,Dense urban eMBB,PSO,46,65.5411
+1,Dense urban eMBB,PSO,47,65.8129
+1,Dense urban eMBB,PSO,48,66.7346
+1,Dense urban eMBB,PSO,49,66.839
+1,Dense urban eMBB,PSO,50,66.8481
+1,Dense urban eMBB,PSO,51,67.2341
+1,Dense urban eMBB,PSO,52,67.4629
+1,Dense urban eMBB,PSO,53,67.5756
+1,Dense urban eMBB,PSO,54,67.9702
+1,Dense urban eMBB,PSO,55,68.1896
+1,Dense urban eMBB,PSO,56,68.3769
+1,Dense urban eMBB,PSO,57,68.693
+1,Dense urban eMBB,PSO,58,68.9613
+1,Dense urban eMBB,PSO,59,68.968
+1,Dense urban eMBB,PSO,60,69.4055
+1,Dense urban eMBB,DE,1,13.22
+1,Dense urban eMBB,DE,2,20.7039
+1,Dense urban eMBB,DE,3,27.3457
+1,Dense urban eMBB,DE,4,28.7337
+1,Dense urban eMBB,DE,5,36.4377
+1,Dense urban eMBB,DE,6,40.9336
+1,Dense urban eMBB,DE,7,44.7883
+1,Dense urban eMBB,DE,8,45.5846
+1,Dense urban eMBB,DE,9,48.3675
+1,Dense urban eMBB,DE,10,49.0033
+1,Dense urban eMBB,DE,11,50.0713
+1,Dense urban eMBB,DE,12,50.1945
+1,Dense urban eMBB,DE,13,50.4487
+1,Dense urban eMBB,DE,14,50.5482
+1,Dense urban eMBB,DE,15,51.9128
+1,Dense urban eMBB,DE,16,51.9128
+1,Dense urban eMBB,DE,17,54.0058
+1,Dense urban eMBB,DE,18,54.2875
+1,Dense urban eMBB,DE,19,54.3823
+1,Dense urban eMBB,DE,20,54.3985
+1,Dense urban eMBB,DE,21,54.483
+1,Dense urban eMBB,DE,22,54.8432
+1,Dense urban eMBB,DE,23,55.2257
+1,Dense urban eMBB,DE,24,55.234
+1,Dense urban eMBB,DE,25,55.234
+1,Dense urban eMBB,DE,26,55.296
+1,Dense urban eMBB,DE,27,55.4793
+1,Dense urban eMBB,DE,28,56.0323
+1,Dense urban eMBB,DE,29,56.2418
+1,Dense urban eMBB,DE,30,56.2714
+1,Dense urban eMBB,DE,31,56.2714
+1,Dense urban eMBB,DE,32,56.2928
+1,Dense urban eMBB,DE,33,57.4547
+1,Dense urban eMBB,DE,34,58.3194
+1,Dense urban eMBB,DE,35,58.4887
+1,Dense urban eMBB,DE,36,58.7845
+1,Dense urban eMBB,DE,37,59.0516
+1,Dense urban eMBB,DE,38,59.1101
+1,Dense urban eMBB,DE,39,59.1599
+1,Dense urban eMBB,DE,40,59.2849
+1,Dense urban eMBB,DE,41,60.3073
+1,Dense urban eMBB,DE,42,60.5676
+1,Dense urban eMBB,DE,43,60.5676
+1,Dense urban eMBB,DE,44,60.8996
+1,Dense urban eMBB,DE,45,61.0511
+1,Dense urban eMBB,DE,46,61.0525
+1,Dense urban eMBB,DE,47,61.0525
+1,Dense urban eMBB,DE,48,61.0814
+1,Dense urban eMBB,DE,49,61.0919
+1,Dense urban eMBB,DE,50,61.3307
+1,Dense urban eMBB,DE,51,61.4583
+1,Dense urban eMBB,DE,52,61.4906
+1,Dense urban eMBB,DE,53,61.7804
+1,Dense urban eMBB,DE,54,61.9299
+1,Dense urban eMBB,DE,55,61.9757
+1,Dense urban eMBB,DE,56,62.0259
+1,Dense urban eMBB,DE,57,62.0504
+1,Dense urban eMBB,DE,58,62.0732
+1,Dense urban eMBB,DE,59,62.103
+1,Dense urban eMBB,DE,60,62.1392
+1,Dense urban eMBB,Bayesian,1,13.22
+1,Dense urban eMBB,Bayesian,2,20.7039
+1,Dense urban eMBB,Bayesian,3,27.3457
+1,Dense urban eMBB,Bayesian,4,28.7337
+1,Dense urban eMBB,Bayesian,5,36.4377
+1,Dense urban eMBB,Bayesian,6,40.9336
+1,Dense urban eMBB,Bayesian,7,44.7883
+1,Dense urban eMBB,Bayesian,8,45.5846
+1,Dense urban eMBB,Bayesian,9,46.9952
+1,Dense urban eMBB,Bayesian,10,49.845
+1,Dense urban eMBB,Bayesian,11,50.5514
+1,Dense urban eMBB,Bayesian,12,52.0449
+1,Dense urban eMBB,Bayesian,13,54.5758
+1,Dense urban eMBB,Bayesian,14,54.8874
+1,Dense urban eMBB,Bayesian,15,56.3926
+1,Dense urban eMBB,Bayesian,16,57.7139
+1,Dense urban eMBB,Bayesian,17,58.7208
+1,Dense urban eMBB,Bayesian,18,60.0295
+1,Dense urban eMBB,Bayesian,19,60.3894
+1,Dense urban eMBB,Bayesian,20,60.4628
+1,Dense urban eMBB,Bayesian,21,61.1214
+1,Dense urban eMBB,Bayesian,22,61.5205
+1,Dense urban eMBB,Bayesian,23,62.5932
+1,Dense urban eMBB,Bayesian,24,63.1573
+1,Dense urban eMBB,Bayesian,25,63.2179
+1,Dense urban eMBB,Bayesian,26,63.5141
+1,Dense urban eMBB,Bayesian,27,63.6597
+1,Dense urban eMBB,Bayesian,28,63.887
+1,Dense urban eMBB,Bayesian,29,64.1938
+1,Dense urban eMBB,Bayesian,30,64.257
+1,Dense urban eMBB,Bayesian,31,64.3573
+1,Dense urban eMBB,Bayesian,32,64.6014
+1,Dense urban eMBB,Bayesian,33,64.6014
+1,Dense urban eMBB,Bayesian,34,64.8299
+1,Dense urban eMBB,Bayesian,35,64.922
+1,Dense urban eMBB,Bayesian,36,65.1816
+1,Dense urban eMBB,Bayesian,37,65.2195
+1,Dense urban eMBB,Bayesian,38,65.2195
+1,Dense urban eMBB,Bayesian,39,65.8097
+1,Dense urban eMBB,Bayesian,40,65.8223
+1,Dense urban eMBB,Bayesian,41,65.9745
+1,Dense urban eMBB,Bayesian,42,66.3671
+1,Dense urban eMBB,Bayesian,43,66.5344
+1,Dense urban eMBB,Bayesian,44,66.6919
+1,Dense urban eMBB,Bayesian,45,66.9089
+1,Dense urban eMBB,Bayesian,46,67.035
+1,Dense urban eMBB,Bayesian,47,67.1412
+1,Dense urban eMBB,Bayesian,48,67.4064
+1,Dense urban eMBB,Bayesian,49,67.4064
+1,Dense urban eMBB,Bayesian,50,67.8554
+1,Dense urban eMBB,Bayesian,51,67.8554
+1,Dense urban eMBB,Bayesian,52,68.223
+1,Dense urban eMBB,Bayesian,53,68.4294
+1,Dense urban eMBB,Bayesian,54,68.4294
+1,Dense urban eMBB,Bayesian,55,68.4604
+1,Dense urban eMBB,Bayesian,56,68.5097
+1,Dense urban eMBB,Bayesian,57,68.7827
+1,Dense urban eMBB,Bayesian,58,69.0305
+1,Dense urban eMBB,Bayesian,59,69.2855
+1,Dense urban eMBB,Bayesian,60,69.5247
+1,Dense urban eMBB,Random,1,13.22
+1,Dense urban eMBB,Random,2,20.7039
+1,Dense urban eMBB,Random,3,27.3457
+1,Dense urban eMBB,Random,4,28.7337
+1,Dense urban eMBB,Random,5,36.4377
+1,Dense urban eMBB,Random,6,40.9336
+1,Dense urban eMBB,Random,7,44.7883
+1,Dense urban eMBB,Random,8,45.5846
+1,Dense urban eMBB,Random,9,48.3675
+1,Dense urban eMBB,Random,10,49.0033
+1,Dense urban eMBB,Random,11,50.0713
+1,Dense urban eMBB,Random,12,50.1945
+1,Dense urban eMBB,Random,13,51.2222
+1,Dense urban eMBB,Random,14,51.5032
+1,Dense urban eMBB,Random,15,52.7781
+1,Dense urban eMBB,Random,16,55.5315
+1,Dense urban eMBB,Random,17,55.7354
+1,Dense urban eMBB,Random,18,56.0992
+1,Dense urban eMBB,Random,19,56.0992
+1,Dense urban eMBB,Random,20,56.4177
+1,Dense urban eMBB,Random,21,56.8358
+1,Dense urban eMBB,Random,22,56.8358
+1,Dense urban eMBB,Random,23,57.0752
+1,Dense urban eMBB,Random,24,57.0752
+1,Dense urban eMBB,Random,25,57.0752
+1,Dense urban eMBB,Random,26,57.7145
+1,Dense urban eMBB,Random,27,57.8548
+1,Dense urban eMBB,Random,28,57.9553
+1,Dense urban eMBB,Random,29,58.1756
+1,Dense urban eMBB,Random,30,58.4034
+1,Dense urban eMBB,Random,31,58.4034
+1,Dense urban eMBB,Random,32,58.4615
+1,Dense urban eMBB,Random,33,58.4634
+1,Dense urban eMBB,Random,34,58.578
+1,Dense urban eMBB,Random,35,59.0755
+1,Dense urban eMBB,Random,36,59.1848
+1,Dense urban eMBB,Random,37,59.2747
+1,Dense urban eMBB,Random,38,59.3468
+1,Dense urban eMBB,Random,39,59.6562
+1,Dense urban eMBB,Random,40,59.8558
+1,Dense urban eMBB,Random,41,60.0174
+1,Dense urban eMBB,Random,42,60.0174
+1,Dense urban eMBB,Random,43,60.0631
+1,Dense urban eMBB,Random,44,60.1174
+1,Dense urban eMBB,Random,45,60.1938
+1,Dense urban eMBB,Random,46,60.1938
+1,Dense urban eMBB,Random,47,60.1938
+1,Dense urban eMBB,Random,48,60.4434
+1,Dense urban eMBB,Random,49,60.53
+1,Dense urban eMBB,Random,50,60.53
+1,Dense urban eMBB,Random,51,60.5603
+1,Dense urban eMBB,Random,52,60.5603
+1,Dense urban eMBB,Random,53,60.751
+1,Dense urban eMBB,Random,54,60.751
+1,Dense urban eMBB,Random,55,60.9884
+1,Dense urban eMBB,Random,56,60.9884
+1,Dense urban eMBB,Random,57,60.9884
+1,Dense urban eMBB,Random,58,61.1341
+1,Dense urban eMBB,Random,59,61.267
+1,Dense urban eMBB,Random,60,61.267
+2,Highway URLLC,GA,1,25.4524
+2,Highway URLLC,GA,2,45.3325
+2,Highway URLLC,GA,3,57.8159
+2,Highway URLLC,GA,4,63.7095
+2,Highway URLLC,GA,5,68.9162
+2,Highway URLLC,GA,6,72.6341
+2,Highway URLLC,GA,7,73.3706
+2,Highway URLLC,GA,8,76.0547
+2,Highway URLLC,GA,9,77.2212
+2,Highway URLLC,GA,10,78.7133
+2,Highway URLLC,GA,11,78.7371
+2,Highway URLLC,GA,12,79.974
+2,Highway URLLC,GA,13,80.4996
+2,Highway URLLC,GA,14,80.6548
+2,Highway URLLC,GA,15,80.9584
+2,Highway URLLC,GA,16,81.0751
+2,Highway URLLC,GA,17,81.1611
+2,Highway URLLC,GA,18,81.1611
+2,Highway URLLC,GA,19,81.1859
+2,Highway URLLC,GA,20,82.1132
+2,Highway URLLC,GA,21,82.37
+2,Highway URLLC,GA,22,82.4523
+2,Highway URLLC,GA,23,82.5652
+2,Highway URLLC,GA,24,82.6883
+2,Highway URLLC,GA,25,82.7347
+2,Highway URLLC,GA,26,82.7477
+2,Highway URLLC,GA,27,82.767
+2,Highway URLLC,GA,28,82.877
+2,Highway URLLC,GA,29,83.2792
+2,Highway URLLC,GA,30,83.2902
+2,Highway URLLC,GA,31,83.524
+2,Highway URLLC,GA,32,83.7411
+2,Highway URLLC,GA,33,84.0684
+2,Highway URLLC,GA,34,84.1989
+2,Highway URLLC,GA,35,84.2327
+2,Highway URLLC,GA,36,84.2327
+2,Highway URLLC,GA,37,84.4637
+2,Highway URLLC,GA,38,84.4637
+2,Highway URLLC,GA,39,84.5691
+2,Highway URLLC,GA,40,84.6292
+2,Highway URLLC,GA,41,84.7684
+2,Highway URLLC,GA,42,84.8179
+2,Highway URLLC,GA,43,84.9511
+2,Highway URLLC,GA,44,85.0868
+2,Highway URLLC,GA,45,85.1628
+2,Highway URLLC,GA,46,85.423
+2,Highway URLLC,GA,47,85.4586
+2,Highway URLLC,GA,48,85.4681
+2,Highway URLLC,GA,49,85.4681
+2,Highway URLLC,GA,50,85.5688
+2,Highway URLLC,GA,51,85.695
+2,Highway URLLC,GA,52,85.8338
+2,Highway URLLC,GA,53,86.0184
+2,Highway URLLC,GA,54,86.2888
+2,Highway URLLC,GA,55,86.2963
+2,Highway URLLC,GA,56,86.4027
+2,Highway URLLC,GA,57,86.5582
+2,Highway URLLC,GA,58,86.5582
+2,Highway URLLC,GA,59,86.6089
+2,Highway URLLC,GA,60,86.7099
+2,Highway URLLC,PSO,1,25.4524
+2,Highway URLLC,PSO,2,45.3325
+2,Highway URLLC,PSO,3,57.8159
+2,Highway URLLC,PSO,4,63.7095
+2,Highway URLLC,PSO,5,68.9162
+2,Highway URLLC,PSO,6,72.6341
+2,Highway URLLC,PSO,7,73.3706
+2,Highway URLLC,PSO,8,76.0547
+2,Highway URLLC,PSO,9,77.2212
+2,Highway URLLC,PSO,10,78.7133
+2,Highway URLLC,PSO,11,79.3912
+2,Highway URLLC,PSO,12,79.7374
+2,Highway URLLC,PSO,13,80.828
+2,Highway URLLC,PSO,14,80.9948
+2,Highway URLLC,PSO,15,81.089
+2,Highway URLLC,PSO,16,81.1531
+2,Highway URLLC,PSO,17,81.405
+2,Highway URLLC,PSO,18,82.6654
+2,Highway URLLC,PSO,19,82.7682
+2,Highway URLLC,PSO,20,83.0908
+2,Highway URLLC,PSO,21,83.5011
+2,Highway URLLC,PSO,22,84.1975
+2,Highway URLLC,PSO,23,84.2588
+2,Highway URLLC,PSO,24,84.4437
+2,Highway URLLC,PSO,25,84.8307
+2,Highway URLLC,PSO,26,84.9546
+2,Highway URLLC,PSO,27,85.0927
+2,Highway URLLC,PSO,28,85.3393
+2,Highway URLLC,PSO,29,85.6941
+2,Highway URLLC,PSO,30,85.7469
+2,Highway URLLC,PSO,31,86.5305
+2,Highway URLLC,PSO,32,86.8339
+2,Highway URLLC,PSO,33,87.2333
+2,Highway URLLC,PSO,34,87.3489
+2,Highway URLLC,PSO,35,87.5342
+2,Highway URLLC,PSO,36,87.6705
+2,Highway URLLC,PSO,37,87.8025
+2,Highway URLLC,PSO,38,88.0301
+2,Highway URLLC,PSO,39,88.1255
+2,Highway URLLC,PSO,40,88.1755
+2,Highway URLLC,PSO,41,88.345
+2,Highway URLLC,PSO,42,88.6557
+2,Highway URLLC,PSO,43,88.834
+2,Highway URLLC,PSO,44,89.1687
+2,Highway URLLC,PSO,45,89.2913
+2,Highway URLLC,PSO,46,89.4708
+2,Highway URLLC,PSO,47,89.6889
+2,Highway URLLC,PSO,48,89.813
+2,Highway URLLC,PSO,49,89.955
+2,Highway URLLC,PSO,50,90.0545
+2,Highway URLLC,PSO,51,90.1178
+2,Highway URLLC,PSO,52,90.226
+2,Highway URLLC,PSO,53,90.3233
+2,Highway URLLC,PSO,54,90.6212
+2,Highway URLLC,PSO,55,90.7558
+2,Highway URLLC,PSO,56,90.7558
+2,Highway URLLC,PSO,57,91.0277
+2,Highway URLLC,PSO,58,91.0712
+2,Highway URLLC,PSO,59,91.1857
+2,Highway URLLC,PSO,60,91.2318
+2,Highway URLLC,DE,1,25.4524
+2,Highway URLLC,DE,2,45.3325
+2,Highway URLLC,DE,3,57.8159
+2,Highway URLLC,DE,4,63.7095
+2,Highway URLLC,DE,5,68.9162
+2,Highway URLLC,DE,6,72.6341
+2,Highway URLLC,DE,7,73.3706
+2,Highway URLLC,DE,8,76.0547
+2,Highway URLLC,DE,9,77.2212
+2,Highway URLLC,DE,10,78.7133
+2,Highway URLLC,DE,11,79.1174
+2,Highway URLLC,DE,12,79.5542
+2,Highway URLLC,DE,13,79.8824
+2,Highway URLLC,DE,14,79.8824
+2,Highway URLLC,DE,15,80.1514
+2,Highway URLLC,DE,16,80.172
+2,Highway URLLC,DE,17,82.4058
+2,Highway URLLC,DE,18,82.4167
+2,Highway URLLC,DE,19,82.6373
+2,Highway URLLC,DE,20,82.7792
+2,Highway URLLC,DE,21,82.8282
+2,Highway URLLC,DE,22,82.903
+2,Highway URLLC,DE,23,83.1261
+2,Highway URLLC,DE,24,83.2198
+2,Highway URLLC,DE,25,83.2198
+2,Highway URLLC,DE,26,83.2198
+2,Highway URLLC,DE,27,83.2198
+2,Highway URLLC,DE,28,83.3267
+2,Highway URLLC,DE,29,83.578
+2,Highway URLLC,DE,30,83.6795
+2,Highway URLLC,DE,31,83.6795
+2,Highway URLLC,DE,32,83.7717
+2,Highway URLLC,DE,33,84.1525
+2,Highway URLLC,DE,34,84.2105
+2,Highway URLLC,DE,35,84.3873
+2,Highway URLLC,DE,36,84.6979
+2,Highway URLLC,DE,37,84.7545
+2,Highway URLLC,DE,38,84.8801
+2,Highway URLLC,DE,39,84.8801
+2,Highway URLLC,DE,40,84.9331
+2,Highway URLLC,DE,41,84.9653
+2,Highway URLLC,DE,42,85.0659
+2,Highway URLLC,DE,43,85.0731
+2,Highway URLLC,DE,44,85.1521
+2,Highway URLLC,DE,45,85.1676
+2,Highway URLLC,DE,46,85.1676
+2,Highway URLLC,DE,47,85.3757
+2,Highway URLLC,DE,48,85.5536
+2,Highway URLLC,DE,49,85.6569
+2,Highway URLLC,DE,50,85.6791
+2,Highway URLLC,DE,51,85.7102
+2,Highway URLLC,DE,52,85.7102
+2,Highway URLLC,DE,53,85.7576
+2,Highway URLLC,DE,54,85.7818
+2,Highway URLLC,DE,55,85.8256
+2,Highway URLLC,DE,56,86.0328
+2,Highway URLLC,DE,57,86.2404
+2,Highway URLLC,DE,58,86.2404
+2,Highway URLLC,DE,59,86.2829
+2,Highway URLLC,DE,60,86.403
+2,Highway URLLC,Bayesian,1,25.4524
+2,Highway URLLC,Bayesian,2,45.3325
+2,Highway URLLC,Bayesian,3,57.8159
+2,Highway URLLC,Bayesian,4,63.7095
+2,Highway URLLC,Bayesian,5,68.9162
+2,Highway URLLC,Bayesian,6,72.6341
+2,Highway URLLC,Bayesian,7,73.3706
+2,Highway URLLC,Bayesian,8,76.0547
+2,Highway URLLC,Bayesian,9,78.0049
+2,Highway URLLC,Bayesian,10,81.5187
+2,Highway URLLC,Bayesian,11,82.1724
+2,Highway URLLC,Bayesian,12,82.3721
+2,Highway URLLC,Bayesian,13,83.672
+2,Highway URLLC,Bayesian,14,84.0738
+2,Highway URLLC,Bayesian,15,84.4294
+2,Highway URLLC,Bayesian,16,85.0812
+2,Highway URLLC,Bayesian,17,85.7362
+2,Highway URLLC,Bayesian,18,85.8587
+2,Highway URLLC,Bayesian,19,86.2659
+2,Highway URLLC,Bayesian,20,86.498
+2,Highway URLLC,Bayesian,21,86.5242
+2,Highway URLLC,Bayesian,22,86.6586
+2,Highway URLLC,Bayesian,23,86.982
+2,Highway URLLC,Bayesian,24,87.0143
+2,Highway URLLC,Bayesian,25,87.0143
+2,Highway URLLC,Bayesian,26,87.1066
+2,Highway URLLC,Bayesian,27,87.4304
+2,Highway URLLC,Bayesian,28,87.5956
+2,Highway URLLC,Bayesian,29,87.6417
+2,Highway URLLC,Bayesian,30,87.6806
+2,Highway URLLC,Bayesian,31,87.8131
+2,Highway URLLC,Bayesian,32,87.8169
+2,Highway URLLC,Bayesian,33,87.9535
+2,Highway URLLC,Bayesian,34,88.013
+2,Highway URLLC,Bayesian,35,88.1584
+2,Highway URLLC,Bayesian,36,88.299
+2,Highway URLLC,Bayesian,37,88.3428
+2,Highway URLLC,Bayesian,38,88.3885
+2,Highway URLLC,Bayesian,39,88.3885
+2,Highway URLLC,Bayesian,40,88.5742
+2,Highway URLLC,Bayesian,41,88.6996
+2,Highway URLLC,Bayesian,42,88.8191
+2,Highway URLLC,Bayesian,43,89.0344
+2,Highway URLLC,Bayesian,44,89.0344
+2,Highway URLLC,Bayesian,45,89.1323
+2,Highway URLLC,Bayesian,46,89.2094
+2,Highway URLLC,Bayesian,47,89.2866
+2,Highway URLLC,Bayesian,48,89.4051
+2,Highway URLLC,Bayesian,49,89.5084
+2,Highway URLLC,Bayesian,50,89.5084
+2,Highway URLLC,Bayesian,51,89.5761
+2,Highway URLLC,Bayesian,52,89.7066
+2,Highway URLLC,Bayesian,53,89.7598
+2,Highway URLLC,Bayesian,54,89.8722
+2,Highway URLLC,Bayesian,55,89.8759
+2,Highway URLLC,Bayesian,56,89.8759
+2,Highway URLLC,Bayesian,57,89.963
+2,Highway URLLC,Bayesian,58,89.9728
+2,Highway URLLC,Bayesian,59,90.0317
+2,Highway URLLC,Bayesian,60,90.0317
+2,Highway URLLC,Random,1,25.4524
+2,Highway URLLC,Random,2,45.3325
+2,Highway URLLC,Random,3,57.8159
+2,Highway URLLC,Random,4,63.7095
+2,Highway URLLC,Random,5,68.9162
+2,Highway URLLC,Random,6,72.6341
+2,Highway URLLC,Random,7,73.3706
+2,Highway URLLC,Random,8,76.0547
+2,Highway URLLC,Random,9,77.2212
+2,Highway URLLC,Random,10,78.7133
+2,Highway URLLC,Random,11,79.1174
+2,Highway URLLC,Random,12,79.5542
+2,Highway URLLC,Random,13,81.9828
+2,Highway URLLC,Random,14,82.1645
+2,Highway URLLC,Random,15,82.1645
+2,Highway URLLC,Random,16,82.6979
+2,Highway URLLC,Random,17,82.9592
+2,Highway URLLC,Random,18,82.9592
+2,Highway URLLC,Random,19,82.9592
+2,Highway URLLC,Random,20,82.9592
+2,Highway URLLC,Random,21,83.1114
+2,Highway URLLC,Random,22,83.1114
+2,Highway URLLC,Random,23,83.5821
+2,Highway URLLC,Random,24,83.6646
+2,Highway URLLC,Random,25,83.6646
+2,Highway URLLC,Random,26,83.6646
+2,Highway URLLC,Random,27,83.6646
+2,Highway URLLC,Random,28,84.2073
+2,Highway URLLC,Random,29,84.2073
+2,Highway URLLC,Random,30,84.2073
+2,Highway URLLC,Random,31,84.3776
+2,Highway URLLC,Random,32,84.3776
+2,Highway URLLC,Random,33,84.5065
+2,Highway URLLC,Random,34,84.5065
+2,Highway URLLC,Random,35,84.5065
+2,Highway URLLC,Random,36,84.5065
+2,Highway URLLC,Random,37,84.576
+2,Highway URLLC,Random,38,84.6107
+2,Highway URLLC,Random,39,84.6107
+2,Highway URLLC,Random,40,84.6968
+2,Highway URLLC,Random,41,84.7943
+2,Highway URLLC,Random,42,84.7943
+2,Highway URLLC,Random,43,84.8727
+2,Highway URLLC,Random,44,84.8727
+2,Highway URLLC,Random,45,84.9204
+2,Highway URLLC,Random,46,84.9204
+2,Highway URLLC,Random,47,84.968
+2,Highway URLLC,Random,48,84.9691
+2,Highway URLLC,Random,49,85.0971
+2,Highway URLLC,Random,50,85.1866
+2,Highway URLLC,Random,51,85.2157
+2,Highway URLLC,Random,52,85.2157
+2,Highway URLLC,Random,53,85.2157
+2,Highway URLLC,Random,54,85.2157
+2,Highway URLLC,Random,55,85.2449
+2,Highway URLLC,Random,56,85.2813
+2,Highway URLLC,Random,57,85.3034
+2,Highway URLLC,Random,58,85.3034
+2,Highway URLLC,Random,59,85.3749
+2,Highway URLLC,Random,60,85.3749
+3,Indoor hotspot eMBB,GA,1,27.556
+3,Indoor hotspot eMBB,GA,2,44.1967
+3,Indoor hotspot eMBB,GA,3,51.4687
+3,Indoor hotspot eMBB,GA,4,53.5792
+3,Indoor hotspot eMBB,GA,5,55.9628
+3,Indoor hotspot eMBB,GA,6,57.185
+3,Indoor hotspot eMBB,GA,7,57.9724
+3,Indoor hotspot eMBB,GA,8,58.4097
+3,Indoor hotspot eMBB,GA,9,58.6486
+3,Indoor hotspot eMBB,GA,10,59.3005
+3,Indoor hotspot eMBB,GA,11,59.7253
+3,Indoor hotspot eMBB,GA,12,59.7961
+3,Indoor hotspot eMBB,GA,13,60.0267
+3,Indoor hotspot eMBB,GA,14,60.1399
+3,Indoor hotspot eMBB,GA,15,60.2881
+3,Indoor hotspot eMBB,GA,16,60.2881
+3,Indoor hotspot eMBB,GA,17,60.2881
+3,Indoor hotspot eMBB,GA,18,60.3414
+3,Indoor hotspot eMBB,GA,19,60.3817
+3,Indoor hotspot eMBB,GA,20,60.3817
+3,Indoor hotspot eMBB,GA,21,60.6041
+3,Indoor hotspot eMBB,GA,22,60.6736
+3,Indoor hotspot eMBB,GA,23,60.6736
+3,Indoor hotspot eMBB,GA,24,60.7416
+3,Indoor hotspot eMBB,GA,25,60.7795
+3,Indoor hotspot eMBB,GA,26,60.81
+3,Indoor hotspot eMBB,GA,27,60.8715
+3,Indoor hotspot eMBB,GA,28,60.94
+3,Indoor hotspot eMBB,GA,29,60.9473
+3,Indoor hotspot eMBB,GA,30,61.1162
+3,Indoor hotspot eMBB,GA,31,61.3492
+3,Indoor hotspot eMBB,GA,32,61.4892
+3,Indoor hotspot eMBB,GA,33,61.5647
+3,Indoor hotspot eMBB,GA,34,61.5888
+3,Indoor hotspot eMBB,GA,35,61.6967
+3,Indoor hotspot eMBB,GA,36,61.7219
+3,Indoor hotspot eMBB,GA,37,61.7609
+3,Indoor hotspot eMBB,GA,38,61.8981
+3,Indoor hotspot eMBB,GA,39,61.9648
+3,Indoor hotspot eMBB,GA,40,62.2018
+3,Indoor hotspot eMBB,GA,41,62.2223
+3,Indoor hotspot eMBB,GA,42,62.2378
+3,Indoor hotspot eMBB,GA,43,62.4471
+3,Indoor hotspot eMBB,GA,44,62.4484
+3,Indoor hotspot eMBB,GA,45,62.5509
+3,Indoor hotspot eMBB,GA,46,62.6192
+3,Indoor hotspot eMBB,GA,47,62.6831
+3,Indoor hotspot eMBB,GA,48,62.7472
+3,Indoor hotspot eMBB,GA,49,62.8827
+3,Indoor hotspot eMBB,GA,50,63.0073
+3,Indoor hotspot eMBB,GA,51,63.0964
+3,Indoor hotspot eMBB,GA,52,63.2655
+3,Indoor hotspot eMBB,GA,53,63.3461
+3,Indoor hotspot eMBB,GA,54,63.4969
+3,Indoor hotspot eMBB,GA,55,63.4973
+3,Indoor hotspot eMBB,GA,56,63.5706
+3,Indoor hotspot eMBB,GA,57,63.5848
+3,Indoor hotspot eMBB,GA,58,63.6649
+3,Indoor hotspot eMBB,GA,59,63.8286
+3,Indoor hotspot eMBB,GA,60,63.8676
+3,Indoor hotspot eMBB,PSO,1,27.556
+3,Indoor hotspot eMBB,PSO,2,44.1967
+3,Indoor hotspot eMBB,PSO,3,51.4687
+3,Indoor hotspot eMBB,PSO,4,53.5792
+3,Indoor hotspot eMBB,PSO,5,55.9628
+3,Indoor hotspot eMBB,PSO,6,57.185
+3,Indoor hotspot eMBB,PSO,7,57.9724
+3,Indoor hotspot eMBB,PSO,8,58.4097
+3,Indoor hotspot eMBB,PSO,9,58.6486
+3,Indoor hotspot eMBB,PSO,10,59.3005
+3,Indoor hotspot eMBB,PSO,11,59.4629
+3,Indoor hotspot eMBB,PSO,12,59.6306
+3,Indoor hotspot eMBB,PSO,13,59.7836
+3,Indoor hotspot eMBB,PSO,14,60.0005
+3,Indoor hotspot eMBB,PSO,15,60.3863
+3,Indoor hotspot eMBB,PSO,16,60.5326
+3,Indoor hotspot eMBB,PSO,17,60.7683
+3,Indoor hotspot eMBB,PSO,18,61.0273
+3,Indoor hotspot eMBB,PSO,19,61.1232
+3,Indoor hotspot eMBB,PSO,20,61.3235
+3,Indoor hotspot eMBB,PSO,21,61.9575
+3,Indoor hotspot eMBB,PSO,22,62.3584
+3,Indoor hotspot eMBB,PSO,23,62.8654
+3,Indoor hotspot eMBB,PSO,24,63.22
+3,Indoor hotspot eMBB,PSO,25,63.6162
+3,Indoor hotspot eMBB,PSO,26,64.1838
+3,Indoor hotspot eMBB,PSO,27,64.3152
+3,Indoor hotspot eMBB,PSO,28,64.4341
+3,Indoor hotspot eMBB,PSO,29,64.4604
+3,Indoor hotspot eMBB,PSO,30,64.5583
+3,Indoor hotspot eMBB,PSO,31,65.6339
+3,Indoor hotspot eMBB,PSO,32,66.1418
+3,Indoor hotspot eMBB,PSO,33,66.1967
+3,Indoor hotspot eMBB,PSO,34,66.7419
+3,Indoor hotspot eMBB,PSO,35,67.2219
+3,Indoor hotspot eMBB,PSO,36,67.5516
+3,Indoor hotspot eMBB,PSO,37,67.8621
+3,Indoor hotspot eMBB,PSO,38,68.2179
+3,Indoor hotspot eMBB,PSO,39,68.5497
+3,Indoor hotspot eMBB,PSO,40,68.6239
+3,Indoor hotspot eMBB,PSO,41,69.1417
+3,Indoor hotspot eMBB,PSO,42,69.6408
+3,Indoor hotspot eMBB,PSO,43,70.0372
+3,Indoor hotspot eMBB,PSO,44,70.2252
+3,Indoor hotspot eMBB,PSO,45,70.4041
+3,Indoor hotspot eMBB,PSO,46,70.46
+3,Indoor hotspot eMBB,PSO,47,70.6513
+3,Indoor hotspot eMBB,PSO,48,70.9794
+3,Indoor hotspot eMBB,PSO,49,71.176
+3,Indoor hotspot eMBB,PSO,50,71.3569
+3,Indoor hotspot eMBB,PSO,51,71.8602
+3,Indoor hotspot eMBB,PSO,52,72.0241
+3,Indoor hotspot eMBB,PSO,53,72.3409
+3,Indoor hotspot eMBB,PSO,54,72.6127
+3,Indoor hotspot eMBB,PSO,55,72.6806
+3,Indoor hotspot eMBB,PSO,56,72.794
+3,Indoor hotspot eMBB,PSO,57,72.8893
+3,Indoor hotspot eMBB,PSO,58,73.2178
+3,Indoor hotspot eMBB,PSO,59,73.3645
+3,Indoor hotspot eMBB,PSO,60,73.662
+3,Indoor hotspot eMBB,DE,1,27.556
+3,Indoor hotspot eMBB,DE,2,44.1967
+3,Indoor hotspot eMBB,DE,3,51.4687
+3,Indoor hotspot eMBB,DE,4,53.5792
+3,Indoor hotspot eMBB,DE,5,55.9628
+3,Indoor hotspot eMBB,DE,6,57.185
+3,Indoor hotspot eMBB,DE,7,57.9724
+3,Indoor hotspot eMBB,DE,8,58.4097
+3,Indoor hotspot eMBB,DE,9,58.6486
+3,Indoor hotspot eMBB,DE,10,59.3005
+3,Indoor hotspot eMBB,DE,11,59.4288
+3,Indoor hotspot eMBB,DE,12,59.4288
+3,Indoor hotspot eMBB,DE,13,59.4358
+3,Indoor hotspot eMBB,DE,14,59.4358
+3,Indoor hotspot eMBB,DE,15,59.4726
+3,Indoor hotspot eMBB,DE,16,59.5249
+3,Indoor hotspot eMBB,DE,17,59.5487
+3,Indoor hotspot eMBB,DE,18,59.5693
+3,Indoor hotspot eMBB,DE,19,59.6315
+3,Indoor hotspot eMBB,DE,20,59.6415
+3,Indoor hotspot eMBB,DE,21,59.6415
+3,Indoor hotspot eMBB,DE,22,60.1172
+3,Indoor hotspot eMBB,DE,23,60.1172
+3,Indoor hotspot eMBB,DE,24,60.1172
+3,Indoor hotspot eMBB,DE,25,60.2155
+3,Indoor hotspot eMBB,DE,26,60.2155
+3,Indoor hotspot eMBB,DE,27,60.3074
+3,Indoor hotspot eMBB,DE,28,60.3074
+3,Indoor hotspot eMBB,DE,29,60.4946
+3,Indoor hotspot eMBB,DE,30,60.6295
+3,Indoor hotspot eMBB,DE,31,60.6295
+3,Indoor hotspot eMBB,DE,32,60.6705
+3,Indoor hotspot eMBB,DE,33,60.7288
+3,Indoor hotspot eMBB,DE,34,60.9236
+3,Indoor hotspot eMBB,DE,35,60.9925
+3,Indoor hotspot eMBB,DE,36,60.9925
+3,Indoor hotspot eMBB,DE,37,61.0155
+3,Indoor hotspot eMBB,DE,38,61.1641
+3,Indoor hotspot eMBB,DE,39,61.3657
+3,Indoor hotspot eMBB,DE,40,61.451
+3,Indoor hotspot eMBB,DE,41,61.5379
+3,Indoor hotspot eMBB,DE,42,61.5379
+3,Indoor hotspot eMBB,DE,43,61.5709
+3,Indoor hotspot eMBB,DE,44,61.6775
+3,Indoor hotspot eMBB,DE,45,61.6775
+3,Indoor hotspot eMBB,DE,46,61.7249
+3,Indoor hotspot eMBB,DE,47,61.8607
+3,Indoor hotspot eMBB,DE,48,61.8607
+3,Indoor hotspot eMBB,DE,49,62.1184
+3,Indoor hotspot eMBB,DE,50,62.1855
+3,Indoor hotspot eMBB,DE,51,62.254
+3,Indoor hotspot eMBB,DE,52,62.254
+3,Indoor hotspot eMBB,DE,53,62.4204
+3,Indoor hotspot eMBB,DE,54,62.4204
+3,Indoor hotspot eMBB,DE,55,62.49
+3,Indoor hotspot eMBB,DE,56,62.6752
+3,Indoor hotspot eMBB,DE,57,62.8014
+3,Indoor hotspot eMBB,DE,58,62.8399
+3,Indoor hotspot eMBB,DE,59,62.8482
+3,Indoor hotspot eMBB,DE,60,62.8779
+3,Indoor hotspot eMBB,Bayesian,1,27.556
+3,Indoor hotspot eMBB,Bayesian,2,44.1967
+3,Indoor hotspot eMBB,Bayesian,3,51.4687
+3,Indoor hotspot eMBB,Bayesian,4,53.5792
+3,Indoor hotspot eMBB,Bayesian,5,55.9628
+3,Indoor hotspot eMBB,Bayesian,6,57.185
+3,Indoor hotspot eMBB,Bayesian,7,57.9724
+3,Indoor hotspot eMBB,Bayesian,8,58.4097
+3,Indoor hotspot eMBB,Bayesian,9,58.9644
+3,Indoor hotspot eMBB,Bayesian,10,59.0521
+3,Indoor hotspot eMBB,Bayesian,11,59.5716
+3,Indoor hotspot eMBB,Bayesian,12,59.996
+3,Indoor hotspot eMBB,Bayesian,13,60.5164
+3,Indoor hotspot eMBB,Bayesian,14,60.6433
+3,Indoor hotspot eMBB,Bayesian,15,60.9882
+3,Indoor hotspot eMBB,Bayesian,16,61.1
+3,Indoor hotspot eMBB,Bayesian,17,61.3666
+3,Indoor hotspot eMBB,Bayesian,18,61.4626
+3,Indoor hotspot eMBB,Bayesian,19,62.0274
+3,Indoor hotspot eMBB,Bayesian,20,62.5581
+3,Indoor hotspot eMBB,Bayesian,21,62.7438
+3,Indoor hotspot eMBB,Bayesian,22,63.0725
+3,Indoor hotspot eMBB,Bayesian,23,63.449
+3,Indoor hotspot eMBB,Bayesian,24,64.1603
+3,Indoor hotspot eMBB,Bayesian,25,64.6677
+3,Indoor hotspot eMBB,Bayesian,26,64.6677
+3,Indoor hotspot eMBB,Bayesian,27,64.7196
+3,Indoor hotspot eMBB,Bayesian,28,64.8223
+3,Indoor hotspot eMBB,Bayesian,29,64.8818
+3,Indoor hotspot eMBB,Bayesian,30,65.2473
+3,Indoor hotspot eMBB,Bayesian,31,65.7974
+3,Indoor hotspot eMBB,Bayesian,32,65.7974
+3,Indoor hotspot eMBB,Bayesian,33,65.8687
+3,Indoor hotspot eMBB,Bayesian,34,66.0349
+3,Indoor hotspot eMBB,Bayesian,35,66.6215
+3,Indoor hotspot eMBB,Bayesian,36,66.7008
+3,Indoor hotspot eMBB,Bayesian,37,67.0428
+3,Indoor hotspot eMBB,Bayesian,38,67.1278
+3,Indoor hotspot eMBB,Bayesian,39,67.3405
+3,Indoor hotspot eMBB,Bayesian,40,67.7647
+3,Indoor hotspot eMBB,Bayesian,41,67.981
+3,Indoor hotspot eMBB,Bayesian,42,68.148
+3,Indoor hotspot eMBB,Bayesian,43,68.3756
+3,Indoor hotspot eMBB,Bayesian,44,68.3838
+3,Indoor hotspot eMBB,Bayesian,45,68.604
+3,Indoor hotspot eMBB,Bayesian,46,68.656
+3,Indoor hotspot eMBB,Bayesian,47,68.8316
+3,Indoor hotspot eMBB,Bayesian,48,68.9653
+3,Indoor hotspot eMBB,Bayesian,49,68.9814
+3,Indoor hotspot eMBB,Bayesian,50,69.637
+3,Indoor hotspot eMBB,Bayesian,51,69.8378
+3,Indoor hotspot eMBB,Bayesian,52,69.8378
+3,Indoor hotspot eMBB,Bayesian,53,69.846
+3,Indoor hotspot eMBB,Bayesian,54,69.8799
+3,Indoor hotspot eMBB,Bayesian,55,70.0085
+3,Indoor hotspot eMBB,Bayesian,56,70.1347
+3,Indoor hotspot eMBB,Bayesian,57,70.2144
+3,Indoor hotspot eMBB,Bayesian,58,70.2905
+3,Indoor hotspot eMBB,Bayesian,59,70.5136
+3,Indoor hotspot eMBB,Bayesian,60,70.5136
+3,Indoor hotspot eMBB,Random,1,27.556
+3,Indoor hotspot eMBB,Random,2,44.1967
+3,Indoor hotspot eMBB,Random,3,51.4687
+3,Indoor hotspot eMBB,Random,4,53.5792
+3,Indoor hotspot eMBB,Random,5,55.9628
+3,Indoor hotspot eMBB,Random,6,57.185
+3,Indoor hotspot eMBB,Random,7,57.9724
+3,Indoor hotspot eMBB,Random,8,58.4097
+3,Indoor hotspot eMBB,Random,9,58.6486
+3,Indoor hotspot eMBB,Random,10,59.3005
+3,Indoor hotspot eMBB,Random,11,59.4288
+3,Indoor hotspot eMBB,Random,12,59.4288
+3,Indoor hotspot eMBB,Random,13,60.1036
+3,Indoor hotspot eMBB,Random,14,60.1036
+3,Indoor hotspot eMBB,Random,15,60.1988
+3,Indoor hotspot eMBB,Random,16,60.6611
+3,Indoor hotspot eMBB,Random,17,60.7378
+3,Indoor hotspot eMBB,Random,18,60.7605
+3,Indoor hotspot eMBB,Random,19,60.8099
+3,Indoor hotspot eMBB,Random,20,61.0004
+3,Indoor hotspot eMBB,Random,21,61.0004
+3,Indoor hotspot eMBB,Random,22,61.0742
+3,Indoor hotspot eMBB,Random,23,61.0742
+3,Indoor hotspot eMBB,Random,24,61.2277
+3,Indoor hotspot eMBB,Random,25,61.3546
+3,Indoor hotspot eMBB,Random,26,61.3546
+3,Indoor hotspot eMBB,Random,27,61.6013
+3,Indoor hotspot eMBB,Random,28,61.6013
+3,Indoor hotspot eMBB,Random,29,61.6013
+3,Indoor hotspot eMBB,Random,30,61.7579
+3,Indoor hotspot eMBB,Random,31,62.0989
+3,Indoor hotspot eMBB,Random,32,62.0989
+3,Indoor hotspot eMBB,Random,33,62.2865
+3,Indoor hotspot eMBB,Random,34,62.3836
+3,Indoor hotspot eMBB,Random,35,62.5362
+3,Indoor hotspot eMBB,Random,36,62.7514
+3,Indoor hotspot eMBB,Random,37,62.8961
+3,Indoor hotspot eMBB,Random,38,63.0491
+3,Indoor hotspot eMBB,Random,39,63.0491
+3,Indoor hotspot eMBB,Random,40,63.1464
+3,Indoor hotspot eMBB,Random,41,63.1516
+3,Indoor hotspot eMBB,Random,42,63.1516
+3,Indoor hotspot eMBB,Random,43,63.3368
+3,Indoor hotspot eMBB,Random,44,63.3368
+3,Indoor hotspot eMBB,Random,45,63.4964
+3,Indoor hotspot eMBB,Random,46,63.6284
+3,Indoor hotspot eMBB,Random,47,63.7385
+3,Indoor hotspot eMBB,Random,48,63.8139
+3,Indoor hotspot eMBB,Random,49,63.9138
+3,Indoor hotspot eMBB,Random,50,63.9138
+3,Indoor hotspot eMBB,Random,51,63.9138
+3,Indoor hotspot eMBB,Random,52,63.9138
+3,Indoor hotspot eMBB,Random,53,63.9138
+3,Indoor hotspot eMBB,Random,54,63.983
+3,Indoor hotspot eMBB,Random,55,64.049
+3,Indoor hotspot eMBB,Random,56,64.049
+3,Indoor hotspot eMBB,Random,57,64.049
+3,Indoor hotspot eMBB,Random,58,64.339
+3,Indoor hotspot eMBB,Random,59,64.3485
+3,Indoor hotspot eMBB,Random,60,64.3485
+4,Rural mMTC,GA,1,47.3798
+4,Rural mMTC,GA,2,68.3494
+4,Rural mMTC,GA,3,76.0161
+4,Rural mMTC,GA,4,78.4648
+4,Rural mMTC,GA,5,80.9561
+4,Rural mMTC,GA,6,81.6686
+4,Rural mMTC,GA,7,82.4144
+4,Rural mMTC,GA,8,83.1277
+4,Rural mMTC,GA,9,83.2154
+4,Rural mMTC,GA,10,83.7041
+4,Rural mMTC,GA,11,84.4729
+4,Rural mMTC,GA,12,84.6264
+4,Rural mMTC,GA,13,85.0419
+4,Rural mMTC,GA,14,85.254
+4,Rural mMTC,GA,15,85.4428
+4,Rural mMTC,GA,16,85.5936
+4,Rural mMTC,GA,17,85.759
+4,Rural mMTC,GA,18,85.8151
+4,Rural mMTC,GA,19,85.9774
+4,Rural mMTC,GA,20,86.0051
+4,Rural mMTC,GA,21,86.214
+4,Rural mMTC,GA,22,86.214
+4,Rural mMTC,GA,23,86.2601
+4,Rural mMTC,GA,24,86.4101
+4,Rural mMTC,GA,25,86.5564
+4,Rural mMTC,GA,26,86.5564
+4,Rural mMTC,GA,27,86.8695
+4,Rural mMTC,GA,28,86.9215
+4,Rural mMTC,GA,29,87.0114
+4,Rural mMTC,GA,30,87.0538
+4,Rural mMTC,GA,31,87.25
+4,Rural mMTC,GA,32,87.4056
+4,Rural mMTC,GA,33,87.4574
+4,Rural mMTC,GA,34,87.5709
+4,Rural mMTC,GA,35,87.6771
+4,Rural mMTC,GA,36,87.79
+4,Rural mMTC,GA,37,87.8681
+4,Rural mMTC,GA,38,88.0078
+4,Rural mMTC,GA,39,88.0286
+4,Rural mMTC,GA,40,88.0286
+4,Rural mMTC,GA,41,88.0752
+4,Rural mMTC,GA,42,88.2558
+4,Rural mMTC,GA,43,88.3354
+4,Rural mMTC,GA,44,88.3541
+4,Rural mMTC,GA,45,88.3978
+4,Rural mMTC,GA,46,88.5919
+4,Rural mMTC,GA,47,88.754
+4,Rural mMTC,GA,48,88.9472
+4,Rural mMTC,GA,49,88.9511
+4,Rural mMTC,GA,50,88.9663
+4,Rural mMTC,GA,51,89.0183
+4,Rural mMTC,GA,52,89.0589
+4,Rural mMTC,GA,53,89.2174
+4,Rural mMTC,GA,54,89.288
+4,Rural mMTC,GA,55,89.3458
+4,Rural mMTC,GA,56,89.3458
+4,Rural mMTC,GA,57,89.4565
+4,Rural mMTC,GA,58,89.4838
+4,Rural mMTC,GA,59,89.49
+4,Rural mMTC,GA,60,89.575
+4,Rural mMTC,PSO,1,47.3798
+4,Rural mMTC,PSO,2,68.3494
+4,Rural mMTC,PSO,3,76.0161
+4,Rural mMTC,PSO,4,78.4648
+4,Rural mMTC,PSO,5,80.9561
+4,Rural mMTC,PSO,6,81.6686
+4,Rural mMTC,PSO,7,82.4144
+4,Rural mMTC,PSO,8,83.1277
+4,Rural mMTC,PSO,9,83.2154
+4,Rural mMTC,PSO,10,83.7041
+4,Rural mMTC,PSO,11,84.0176
+4,Rural mMTC,PSO,12,84.1523
+4,Rural mMTC,PSO,13,84.761
+4,Rural mMTC,PSO,14,84.9419
+4,Rural mMTC,PSO,15,85.186
+4,Rural mMTC,PSO,16,85.4134
+4,Rural mMTC,PSO,17,85.497
+4,Rural mMTC,PSO,18,85.7348
+4,Rural mMTC,PSO,19,85.9209
+4,Rural mMTC,PSO,20,86.1294
+4,Rural mMTC,PSO,21,86.5374
+4,Rural mMTC,PSO,22,87.112
+4,Rural mMTC,PSO,23,87.5112
+4,Rural mMTC,PSO,24,87.8628
+4,Rural mMTC,PSO,25,87.8669
+4,Rural mMTC,PSO,26,88.0424
+4,Rural mMTC,PSO,27,88.1816
+4,Rural mMTC,PSO,28,88.5204
+4,Rural mMTC,PSO,29,88.7068
+4,Rural mMTC,PSO,30,89.1086
+4,Rural mMTC,PSO,31,89.3874
+4,Rural mMTC,PSO,32,89.4918
+4,Rural mMTC,PSO,33,89.6466
+4,Rural mMTC,PSO,34,89.7584
+4,Rural mMTC,PSO,35,89.8518
+4,Rural mMTC,PSO,36,89.9284
+4,Rural mMTC,PSO,37,89.9588
+4,Rural mMTC,PSO,38,90.0575
+4,Rural mMTC,PSO,39,90.1378
+4,Rural mMTC,PSO,40,90.1714
+4,Rural mMTC,PSO,41,90.4643
+4,Rural mMTC,PSO,42,90.6262
+4,Rural mMTC,PSO,43,90.7737
+4,Rural mMTC,PSO,44,91.008
+4,Rural mMTC,PSO,45,91.2277
+4,Rural mMTC,PSO,46,91.3363
+4,Rural mMTC,PSO,47,91.5425
+4,Rural mMTC,PSO,48,91.6875
+4,Rural mMTC,PSO,49,91.8429
+4,Rural mMTC,PSO,50,91.8979
+4,Rural mMTC,PSO,51,91.9665
+4,Rural mMTC,PSO,52,91.9665
+4,Rural mMTC,PSO,53,92.1939
+4,Rural mMTC,PSO,54,92.2967
+4,Rural mMTC,PSO,55,92.3467
+4,Rural mMTC,PSO,56,92.3976
+4,Rural mMTC,PSO,57,92.5324
+4,Rural mMTC,PSO,58,92.6089
+4,Rural mMTC,PSO,59,92.7026
+4,Rural mMTC,PSO,60,92.7338
+4,Rural mMTC,DE,1,47.3798
+4,Rural mMTC,DE,2,68.3494
+4,Rural mMTC,DE,3,76.0161
+4,Rural mMTC,DE,4,78.4648
+4,Rural mMTC,DE,5,80.9561
+4,Rural mMTC,DE,6,81.6686
+4,Rural mMTC,DE,7,82.4144
+4,Rural mMTC,DE,8,83.1277
+4,Rural mMTC,DE,9,83.2154
+4,Rural mMTC,DE,10,83.7041
+4,Rural mMTC,DE,11,83.922
+4,Rural mMTC,DE,12,83.9986
+4,Rural mMTC,DE,13,83.9986
+4,Rural mMTC,DE,14,84.0984
+4,Rural mMTC,DE,15,84.0984
+4,Rural mMTC,DE,16,84.2605
+4,Rural mMTC,DE,17,84.3186
+4,Rural mMTC,DE,18,84.372
+4,Rural mMTC,DE,19,84.5128
+4,Rural mMTC,DE,20,84.7048
+4,Rural mMTC,DE,21,84.7048
+4,Rural mMTC,DE,22,84.782
+4,Rural mMTC,DE,23,84.7895
+4,Rural mMTC,DE,24,84.7895
+4,Rural mMTC,DE,25,85.0452
+4,Rural mMTC,DE,26,85.0452
+4,Rural mMTC,DE,27,85.2142
+4,Rural mMTC,DE,28,85.2142
+4,Rural mMTC,DE,29,85.7218
+4,Rural mMTC,DE,30,85.9476
+4,Rural mMTC,DE,31,85.9476
+4,Rural mMTC,DE,32,85.9476
+4,Rural mMTC,DE,33,86.1669
+4,Rural mMTC,DE,34,86.1669
+4,Rural mMTC,DE,35,86.2105
+4,Rural mMTC,DE,36,86.2748
+4,Rural mMTC,DE,37,86.3337
+4,Rural mMTC,DE,38,86.3874
+4,Rural mMTC,DE,39,86.4505
+4,Rural mMTC,DE,40,86.5049
+4,Rural mMTC,DE,41,86.6983
+4,Rural mMTC,DE,42,86.6983
+4,Rural mMTC,DE,43,86.732
+4,Rural mMTC,DE,44,86.7674
+4,Rural mMTC,DE,45,86.8247
+4,Rural mMTC,DE,46,86.8247
+4,Rural mMTC,DE,47,86.9689
+4,Rural mMTC,DE,48,86.9689
+4,Rural mMTC,DE,49,87.405
+4,Rural mMTC,DE,50,87.704
+4,Rural mMTC,DE,51,87.7479
+4,Rural mMTC,DE,52,87.7479
+4,Rural mMTC,DE,53,87.8471
+4,Rural mMTC,DE,54,88.0632
+4,Rural mMTC,DE,55,88.0632
+4,Rural mMTC,DE,56,88.0632
+4,Rural mMTC,DE,57,88.1338
+4,Rural mMTC,DE,58,88.1584
+4,Rural mMTC,DE,59,88.1584
+4,Rural mMTC,DE,60,88.3586
+4,Rural mMTC,Bayesian,1,47.3798
+4,Rural mMTC,Bayesian,2,68.3494
+4,Rural mMTC,Bayesian,3,76.0161
+4,Rural mMTC,Bayesian,4,78.4648
+4,Rural mMTC,Bayesian,5,80.9561
+4,Rural mMTC,Bayesian,6,81.6686
+4,Rural mMTC,Bayesian,7,82.4144
+4,Rural mMTC,Bayesian,8,83.1277
+4,Rural mMTC,Bayesian,9,83.6464
+4,Rural mMTC,Bayesian,10,83.9642
+4,Rural mMTC,Bayesian,11,84.3
+4,Rural mMTC,Bayesian,12,84.6116
+4,Rural mMTC,Bayesian,13,85.3278
+4,Rural mMTC,Bayesian,14,85.6658
+4,Rural mMTC,Bayesian,15,86.1702
+4,Rural mMTC,Bayesian,16,86.4761
+4,Rural mMTC,Bayesian,17,86.6143
+4,Rural mMTC,Bayesian,18,86.8791
+4,Rural mMTC,Bayesian,19,87.0926
+4,Rural mMTC,Bayesian,20,87.4888
+4,Rural mMTC,Bayesian,21,87.7211
+4,Rural mMTC,Bayesian,22,88.112
+4,Rural mMTC,Bayesian,23,88.4945
+4,Rural mMTC,Bayesian,24,88.5246
+4,Rural mMTC,Bayesian,25,88.6248
+4,Rural mMTC,Bayesian,26,88.8163
+4,Rural mMTC,Bayesian,27,89.3162
+4,Rural mMTC,Bayesian,28,89.568
+4,Rural mMTC,Bayesian,29,89.7822
+4,Rural mMTC,Bayesian,30,90.1279
+4,Rural mMTC,Bayesian,31,90.2435
+4,Rural mMTC,Bayesian,32,90.3351
+4,Rural mMTC,Bayesian,33,90.3351
+4,Rural mMTC,Bayesian,34,90.4192
+4,Rural mMTC,Bayesian,35,90.5799
+4,Rural mMTC,Bayesian,36,90.6046
+4,Rural mMTC,Bayesian,37,90.8602
+4,Rural mMTC,Bayesian,38,90.9783
+4,Rural mMTC,Bayesian,39,90.9899
+4,Rural mMTC,Bayesian,40,91.1233
+4,Rural mMTC,Bayesian,41,91.4687
+4,Rural mMTC,Bayesian,42,91.5429
+4,Rural mMTC,Bayesian,43,91.5429
+4,Rural mMTC,Bayesian,44,91.705
+4,Rural mMTC,Bayesian,45,91.7899
+4,Rural mMTC,Bayesian,46,91.8161
+4,Rural mMTC,Bayesian,47,91.9024
+4,Rural mMTC,Bayesian,48,91.9229
+4,Rural mMTC,Bayesian,49,91.9886
+4,Rural mMTC,Bayesian,50,92.0275
+4,Rural mMTC,Bayesian,51,92.0648
+4,Rural mMTC,Bayesian,52,92.1104
+4,Rural mMTC,Bayesian,53,92.1525
+4,Rural mMTC,Bayesian,54,92.2068
+4,Rural mMTC,Bayesian,55,92.2555
+4,Rural mMTC,Bayesian,56,92.2555
+4,Rural mMTC,Bayesian,57,92.4437
+4,Rural mMTC,Bayesian,58,92.6241
+4,Rural mMTC,Bayesian,59,92.6775
+4,Rural mMTC,Bayesian,60,92.7101
+4,Rural mMTC,Random,1,47.3798
+4,Rural mMTC,Random,2,68.3494
+4,Rural mMTC,Random,3,76.0161
+4,Rural mMTC,Random,4,78.4648
+4,Rural mMTC,Random,5,80.9561
+4,Rural mMTC,Random,6,81.6686
+4,Rural mMTC,Random,7,82.4144
+4,Rural mMTC,Random,8,83.1277
+4,Rural mMTC,Random,9,83.2154
+4,Rural mMTC,Random,10,83.7041
+4,Rural mMTC,Random,11,83.922
+4,Rural mMTC,Random,12,83.9986
+4,Rural mMTC,Random,13,84.8439
+4,Rural mMTC,Random,14,84.8439
+4,Rural mMTC,Random,15,84.8439
+4,Rural mMTC,Random,16,84.8439
+4,Rural mMTC,Random,17,84.9215
+4,Rural mMTC,Random,18,85.0504
+4,Rural mMTC,Random,19,85.2024
+4,Rural mMTC,Random,20,85.5692
+4,Rural mMTC,Random,21,85.6161
+4,Rural mMTC,Random,22,85.6959
+4,Rural mMTC,Random,23,85.7011
+4,Rural mMTC,Random,24,85.7615
+4,Rural mMTC,Random,25,86.0627
+4,Rural mMTC,Random,26,86.0627
+4,Rural mMTC,Random,27,86.0627
+4,Rural mMTC,Random,28,86.1674
+4,Rural mMTC,Random,29,86.1674
+4,Rural mMTC,Random,30,86.1674
+4,Rural mMTC,Random,31,86.4538
+4,Rural mMTC,Random,32,86.4538
+4,Rural mMTC,Random,33,86.6588
+4,Rural mMTC,Random,34,86.7854
+4,Rural mMTC,Random,35,86.7902
+4,Rural mMTC,Random,36,86.7902
+4,Rural mMTC,Random,37,86.9203
+4,Rural mMTC,Random,38,87.1599
+4,Rural mMTC,Random,39,87.2518
+4,Rural mMTC,Random,40,87.4212
+4,Rural mMTC,Random,41,87.4525
+4,Rural mMTC,Random,42,87.4698
+4,Rural mMTC,Random,43,87.5477
+4,Rural mMTC,Random,44,87.5477
+4,Rural mMTC,Random,45,87.56
+4,Rural mMTC,Random,46,87.6132
+4,Rural mMTC,Random,47,87.66
+4,Rural mMTC,Random,48,87.663
+4,Rural mMTC,Random,49,87.7019
+4,Rural mMTC,Random,50,87.7019
+4,Rural mMTC,Random,51,87.7713
+4,Rural mMTC,Random,52,87.93
+4,Rural mMTC,Random,53,87.93
+4,Rural mMTC,Random,54,87.93
+4,Rural mMTC,Random,55,88.0908
+4,Rural mMTC,Random,56,88.0908
+4,Rural mMTC,Random,57,88.0908
+4,Rural mMTC,Random,58,88.1521
+4,Rural mMTC,Random,59,88.1521
+4,Rural mMTC,Random,60,88.1521
+5,Stadium eMBB burst,GA,1,13.3585
+5,Stadium eMBB burst,GA,2,20.6039
+5,Stadium eMBB burst,GA,3,26.8631
+5,Stadium eMBB burst,GA,4,28.2599
+5,Stadium eMBB burst,GA,5,35.5164
+5,Stadium eMBB burst,GA,6,39.6659
+5,Stadium eMBB burst,GA,7,42.9984
+5,Stadium eMBB burst,GA,8,43.5369
+5,Stadium eMBB burst,GA,9,46.2809
+5,Stadium eMBB burst,GA,10,46.9686
+5,Stadium eMBB burst,GA,11,47.448
+5,Stadium eMBB burst,GA,12,47.789
+5,Stadium eMBB burst,GA,13,48.536
+5,Stadium eMBB burst,GA,14,48.536
+5,Stadium eMBB burst,GA,15,48.9892
+5,Stadium eMBB burst,GA,16,49.0086
+5,Stadium eMBB burst,GA,17,49.0519
+5,Stadium eMBB burst,GA,18,49.3113
+5,Stadium eMBB burst,GA,19,50.1548
+5,Stadium eMBB burst,GA,20,50.7778
+5,Stadium eMBB burst,GA,21,52.2521
+5,Stadium eMBB burst,GA,22,52.5527
+5,Stadium eMBB burst,GA,23,53.326
+5,Stadium eMBB burst,GA,24,53.5758
+5,Stadium eMBB burst,GA,25,53.764
+5,Stadium eMBB burst,GA,26,53.7821
+5,Stadium eMBB burst,GA,27,54.028
+5,Stadium eMBB burst,GA,28,55.0214
+5,Stadium eMBB burst,GA,29,55.0214
+5,Stadium eMBB burst,GA,30,55.0214
+5,Stadium eMBB burst,GA,31,55.5236
+5,Stadium eMBB burst,GA,32,55.7184
+5,Stadium eMBB burst,GA,33,55.9082
+5,Stadium eMBB burst,GA,34,56.0793
+5,Stadium eMBB burst,GA,35,56.6825
+5,Stadium eMBB burst,GA,36,56.7052
+5,Stadium eMBB burst,GA,37,56.8436
+5,Stadium eMBB burst,GA,38,57.1326
+5,Stadium eMBB burst,GA,39,57.1358
+5,Stadium eMBB burst,GA,40,57.3132
+5,Stadium eMBB burst,GA,41,57.4257
+5,Stadium eMBB burst,GA,42,57.7581
+5,Stadium eMBB burst,GA,43,57.8184
+5,Stadium eMBB burst,GA,44,57.8205
+5,Stadium eMBB burst,GA,45,57.8205
+5,Stadium eMBB burst,GA,46,58.0444
+5,Stadium eMBB burst,GA,47,58.0673
+5,Stadium eMBB burst,GA,48,58.1579
+5,Stadium eMBB burst,GA,49,58.3509
+5,Stadium eMBB burst,GA,50,58.3564
+5,Stadium eMBB burst,GA,51,58.689
+5,Stadium eMBB burst,GA,52,58.8182
+5,Stadium eMBB burst,GA,53,58.9396
+5,Stadium eMBB burst,GA,54,58.9777
+5,Stadium eMBB burst,GA,55,58.9894
+5,Stadium eMBB burst,GA,56,58.9894
+5,Stadium eMBB burst,GA,57,59.0035
+5,Stadium eMBB burst,GA,58,59.0035
+5,Stadium eMBB burst,GA,59,59.1385
+5,Stadium eMBB burst,GA,60,59.1478
+5,Stadium eMBB burst,PSO,1,13.3585
+5,Stadium eMBB burst,PSO,2,20.6039
+5,Stadium eMBB burst,PSO,3,26.8631
+5,Stadium eMBB burst,PSO,4,28.2599
+5,Stadium eMBB burst,PSO,5,35.5164
+5,Stadium eMBB burst,PSO,6,39.6659
+5,Stadium eMBB burst,PSO,7,42.9984
+5,Stadium eMBB burst,PSO,8,43.5369
+5,Stadium eMBB burst,PSO,9,46.2809
+5,Stadium eMBB burst,PSO,10,46.9686
+5,Stadium eMBB burst,PSO,11,47.5314
+5,Stadium eMBB burst,PSO,12,48.0747
+5,Stadium eMBB burst,PSO,13,50.0744
+5,Stadium eMBB burst,PSO,14,50.6204
+5,Stadium eMBB burst,PSO,15,50.7918
+5,Stadium eMBB burst,PSO,16,51.0289
+5,Stadium eMBB burst,PSO,17,51.2362
+5,Stadium eMBB burst,PSO,18,51.7142
+5,Stadium eMBB burst,PSO,19,52.4272
+5,Stadium eMBB burst,PSO,20,53.1038
+5,Stadium eMBB burst,PSO,21,54.2033
+5,Stadium eMBB burst,PSO,22,54.3319
+5,Stadium eMBB burst,PSO,23,54.6862
+5,Stadium eMBB burst,PSO,24,55.9214
+5,Stadium eMBB burst,PSO,25,56.7232
+5,Stadium eMBB burst,PSO,26,57.0711
+5,Stadium eMBB burst,PSO,27,57.4013
+5,Stadium eMBB burst,PSO,28,57.426
+5,Stadium eMBB burst,PSO,29,57.6697
+5,Stadium eMBB burst,PSO,30,57.7975
+5,Stadium eMBB burst,PSO,31,58.2793
+5,Stadium eMBB burst,PSO,32,58.5712
+5,Stadium eMBB burst,PSO,33,58.8278
+5,Stadium eMBB burst,PSO,34,58.8956
+5,Stadium eMBB burst,PSO,35,59.1056
+5,Stadium eMBB burst,PSO,36,59.3468
+5,Stadium eMBB burst,PSO,37,59.5517
+5,Stadium eMBB burst,PSO,38,59.6088
+5,Stadium eMBB burst,PSO,39,59.7766
+5,Stadium eMBB burst,PSO,40,59.8755
+5,Stadium eMBB burst,PSO,41,59.9724
+5,Stadium eMBB burst,PSO,42,60.2479
+5,Stadium eMBB burst,PSO,43,60.3909
+5,Stadium eMBB burst,PSO,44,60.7612
+5,Stadium eMBB burst,PSO,45,60.8924
+5,Stadium eMBB burst,PSO,46,61.3672
+5,Stadium eMBB burst,PSO,47,61.433
+5,Stadium eMBB burst,PSO,48,61.7341
+5,Stadium eMBB burst,PSO,49,61.9333
+5,Stadium eMBB burst,PSO,50,62.0301
+5,Stadium eMBB burst,PSO,51,62.1687
+5,Stadium eMBB burst,PSO,52,62.495
+5,Stadium eMBB burst,PSO,53,62.9194
+5,Stadium eMBB burst,PSO,54,63.3158
+5,Stadium eMBB burst,PSO,55,63.3595
+5,Stadium eMBB burst,PSO,56,63.507
+5,Stadium eMBB burst,PSO,57,63.7852
+5,Stadium eMBB burst,PSO,58,64.0083
+5,Stadium eMBB burst,PSO,59,64.0599
+5,Stadium eMBB burst,PSO,60,64.1277
+5,Stadium eMBB burst,DE,1,13.3585
+5,Stadium eMBB burst,DE,2,20.6039
+5,Stadium eMBB burst,DE,3,26.8631
+5,Stadium eMBB burst,DE,4,28.2599
+5,Stadium eMBB burst,DE,5,35.5164
+5,Stadium eMBB burst,DE,6,39.6659
+5,Stadium eMBB burst,DE,7,42.9984
+5,Stadium eMBB burst,DE,8,43.5369
+5,Stadium eMBB burst,DE,9,46.2809
+5,Stadium eMBB burst,DE,10,46.9686
+5,Stadium eMBB burst,DE,11,48.1395
+5,Stadium eMBB burst,DE,12,48.2552
+5,Stadium eMBB burst,DE,13,48.9117
+5,Stadium eMBB burst,DE,14,48.9914
+5,Stadium eMBB burst,DE,15,50.3364
+5,Stadium eMBB burst,DE,16,50.4714
+5,Stadium eMBB burst,DE,17,52.4393
+5,Stadium eMBB burst,DE,18,52.616
+5,Stadium eMBB burst,DE,19,52.8077
+5,Stadium eMBB burst,DE,20,52.8572
+5,Stadium eMBB burst,DE,21,52.878
+5,Stadium eMBB burst,DE,22,53.0955
+5,Stadium eMBB burst,DE,23,53.357
+5,Stadium eMBB burst,DE,24,53.3904
+5,Stadium eMBB burst,DE,25,53.3904
+5,Stadium eMBB burst,DE,26,53.4023
+5,Stadium eMBB burst,DE,27,54.1407
+5,Stadium eMBB burst,DE,28,54.4877
+5,Stadium eMBB burst,DE,29,54.6395
+5,Stadium eMBB burst,DE,30,54.8177
+5,Stadium eMBB burst,DE,31,54.8177
+5,Stadium eMBB burst,DE,32,54.8519
+5,Stadium eMBB burst,DE,33,55.7479
+5,Stadium eMBB burst,DE,34,55.9262
+5,Stadium eMBB burst,DE,35,56.18
+5,Stadium eMBB burst,DE,36,56.2739
+5,Stadium eMBB burst,DE,37,56.6614
+5,Stadium eMBB burst,DE,38,56.6614
+5,Stadium eMBB burst,DE,39,56.7395
+5,Stadium eMBB burst,DE,40,56.8743
+5,Stadium eMBB burst,DE,41,57.1211
+5,Stadium eMBB burst,DE,42,57.3844
+5,Stadium eMBB burst,DE,43,57.3844
+5,Stadium eMBB burst,DE,44,57.5175
+5,Stadium eMBB burst,DE,45,57.7601
+5,Stadium eMBB burst,DE,46,57.7601
+5,Stadium eMBB burst,DE,47,57.8047
+5,Stadium eMBB burst,DE,48,57.8047
+5,Stadium eMBB burst,DE,49,57.8047
+5,Stadium eMBB burst,DE,50,57.9647
+5,Stadium eMBB burst,DE,51,57.9809
+5,Stadium eMBB burst,DE,52,58.1551
+5,Stadium eMBB burst,DE,53,58.1971
+5,Stadium eMBB burst,DE,54,58.1971
+5,Stadium eMBB burst,DE,55,58.2458
+5,Stadium eMBB burst,DE,56,58.2974
+5,Stadium eMBB burst,DE,57,58.3096
+5,Stadium eMBB burst,DE,58,58.593
+5,Stadium eMBB burst,DE,59,58.6516
+5,Stadium eMBB burst,DE,60,58.6969
+5,Stadium eMBB burst,Bayesian,1,13.3585
+5,Stadium eMBB burst,Bayesian,2,20.6039
+5,Stadium eMBB burst,Bayesian,3,26.8631
+5,Stadium eMBB burst,Bayesian,4,28.2599
+5,Stadium eMBB burst,Bayesian,5,35.5164
+5,Stadium eMBB burst,Bayesian,6,39.6659
+5,Stadium eMBB burst,Bayesian,7,42.9984
+5,Stadium eMBB burst,Bayesian,8,43.5369
+5,Stadium eMBB burst,Bayesian,9,44.2983
+5,Stadium eMBB burst,Bayesian,10,48.182
+5,Stadium eMBB burst,Bayesian,11,49.684
+5,Stadium eMBB burst,Bayesian,12,51.5886
+5,Stadium eMBB burst,Bayesian,13,53.0342
+5,Stadium eMBB burst,Bayesian,14,53.2089
+5,Stadium eMBB burst,Bayesian,15,56.2767
+5,Stadium eMBB burst,Bayesian,16,56.9232
+5,Stadium eMBB burst,Bayesian,17,57.1083
+5,Stadium eMBB burst,Bayesian,18,57.4437
+5,Stadium eMBB burst,Bayesian,19,57.7547
+5,Stadium eMBB burst,Bayesian,20,58.4622
+5,Stadium eMBB burst,Bayesian,21,58.5877
+5,Stadium eMBB burst,Bayesian,22,58.6472
+5,Stadium eMBB burst,Bayesian,23,58.8145
+5,Stadium eMBB burst,Bayesian,24,59.0743
+5,Stadium eMBB burst,Bayesian,25,59.1605
+5,Stadium eMBB burst,Bayesian,26,59.4938
+5,Stadium eMBB burst,Bayesian,27,59.6828
+5,Stadium eMBB burst,Bayesian,28,59.9366
+5,Stadium eMBB burst,Bayesian,29,60.1331
+5,Stadium eMBB burst,Bayesian,30,60.1923
+5,Stadium eMBB burst,Bayesian,31,60.307
+5,Stadium eMBB burst,Bayesian,32,60.3517
+5,Stadium eMBB burst,Bayesian,33,60.4158
+5,Stadium eMBB burst,Bayesian,34,60.4806
+5,Stadium eMBB burst,Bayesian,35,60.7595
+5,Stadium eMBB burst,Bayesian,36,60.7633
+5,Stadium eMBB burst,Bayesian,37,60.9012
+5,Stadium eMBB burst,Bayesian,38,60.9387
+5,Stadium eMBB burst,Bayesian,39,61.1117
+5,Stadium eMBB burst,Bayesian,40,61.1864
+5,Stadium eMBB burst,Bayesian,41,61.2449
+5,Stadium eMBB burst,Bayesian,42,61.707
+5,Stadium eMBB burst,Bayesian,43,61.7729
+5,Stadium eMBB burst,Bayesian,44,61.8217
+5,Stadium eMBB burst,Bayesian,45,61.8731
+5,Stadium eMBB burst,Bayesian,46,61.9201
+5,Stadium eMBB burst,Bayesian,47,62.0465
+5,Stadium eMBB burst,Bayesian,48,62.098
+5,Stadium eMBB burst,Bayesian,49,62.1346
+5,Stadium eMBB burst,Bayesian,50,62.2633
+5,Stadium eMBB burst,Bayesian,51,62.4118
+5,Stadium eMBB burst,Bayesian,52,62.4721
+5,Stadium eMBB burst,Bayesian,53,62.5401
+5,Stadium eMBB burst,Bayesian,54,62.5568
+5,Stadium eMBB burst,Bayesian,55,62.7455
+5,Stadium eMBB burst,Bayesian,56,62.7455
+5,Stadium eMBB burst,Bayesian,57,63.1953
+5,Stadium eMBB burst,Bayesian,58,63.1953
+5,Stadium eMBB burst,Bayesian,59,63.1953
+5,Stadium eMBB burst,Bayesian,60,63.4182
+5,Stadium eMBB burst,Random,1,13.3585
+5,Stadium eMBB burst,Random,2,20.6039
+5,Stadium eMBB burst,Random,3,26.8631
+5,Stadium eMBB burst,Random,4,28.2599
+5,Stadium eMBB burst,Random,5,35.5164
+5,Stadium eMBB burst,Random,6,39.6659
+5,Stadium eMBB burst,Random,7,42.9984
+5,Stadium eMBB burst,Random,8,43.5369
+5,Stadium eMBB burst,Random,9,46.2809
+5,Stadium eMBB burst,Random,10,46.9686
+5,Stadium eMBB burst,Random,11,48.1395
+5,Stadium eMBB burst,Random,12,48.2552
+5,Stadium eMBB burst,Random,13,48.9827
+5,Stadium eMBB burst,Random,14,49.2069
+5,Stadium eMBB burst,Random,15,50.6788
+5,Stadium eMBB burst,Random,16,53.0198
+5,Stadium eMBB burst,Random,17,53.4333
+5,Stadium eMBB burst,Random,18,53.6327
+5,Stadium eMBB burst,Random,19,53.6327
+5,Stadium eMBB burst,Random,20,53.921
+5,Stadium eMBB burst,Random,21,54.6254
+5,Stadium eMBB burst,Random,22,54.6254
+5,Stadium eMBB burst,Random,23,54.8681
+5,Stadium eMBB burst,Random,24,54.8681
+5,Stadium eMBB burst,Random,25,54.8681
+5,Stadium eMBB burst,Random,26,55.3895
+5,Stadium eMBB burst,Random,27,55.5272
+5,Stadium eMBB burst,Random,28,55.6178
+5,Stadium eMBB burst,Random,29,55.8222
+5,Stadium eMBB burst,Random,30,56.0056
+5,Stadium eMBB burst,Random,31,56.0056
+5,Stadium eMBB burst,Random,32,56.0056
+5,Stadium eMBB burst,Random,33,56.0419
+5,Stadium eMBB burst,Random,34,56.1531
+5,Stadium eMBB burst,Random,35,56.1967
+5,Stadium eMBB burst,Random,36,56.3542
+5,Stadium eMBB burst,Random,37,56.4952
+5,Stadium eMBB burst,Random,38,56.5567
+5,Stadium eMBB burst,Random,39,56.6186
+5,Stadium eMBB burst,Random,40,56.8487
+5,Stadium eMBB burst,Random,41,56.8487
+5,Stadium eMBB burst,Random,42,56.8487
+5,Stadium eMBB burst,Random,43,56.9569
+5,Stadium eMBB burst,Random,44,57.0813
+5,Stadium eMBB burst,Random,45,57.1379
+5,Stadium eMBB burst,Random,46,57.2281
+5,Stadium eMBB burst,Random,47,57.2281
+5,Stadium eMBB burst,Random,48,57.3757
+5,Stadium eMBB burst,Random,49,57.3757
+5,Stadium eMBB burst,Random,50,57.3757
+5,Stadium eMBB burst,Random,51,57.4732
+5,Stadium eMBB burst,Random,52,57.4732
+5,Stadium eMBB burst,Random,53,57.5242
+5,Stadium eMBB burst,Random,54,57.5242
+5,Stadium eMBB burst,Random,55,57.6894
+5,Stadium eMBB burst,Random,56,57.7026
+5,Stadium eMBB burst,Random,57,57.7081
+5,Stadium eMBB burst,Random,58,57.7536
+5,Stadium eMBB burst,Random,59,57.8279
+5,Stadium eMBB burst,Random,60,57.8279
+6,Factory URLLC,GA,1,24.0203
+6,Factory URLLC,GA,2,41.973
+6,Factory URLLC,GA,3,53.9713
+6,Factory URLLC,GA,4,59.158
+6,Factory URLLC,GA,5,65.8962
+6,Factory URLLC,GA,6,71.2638
+6,Factory URLLC,GA,7,72.1737
+6,Factory URLLC,GA,8,72.595
+6,Factory URLLC,GA,9,73.9783
+6,Factory URLLC,GA,10,76.3216
+6,Factory URLLC,GA,11,76.6582
+6,Factory URLLC,GA,12,76.8378
+6,Factory URLLC,GA,13,77.8785
+6,Factory URLLC,GA,14,78.0209
+6,Factory URLLC,GA,15,78.5593
+6,Factory URLLC,GA,16,78.6671
+6,Factory URLLC,GA,17,78.6671
+6,Factory URLLC,GA,18,78.6998
+6,Factory URLLC,GA,19,78.6998
+6,Factory URLLC,GA,20,78.9618
+6,Factory URLLC,GA,21,79.2813
+6,Factory URLLC,GA,22,79.3609
+6,Factory URLLC,GA,23,79.7363
+6,Factory URLLC,GA,24,79.7363
+6,Factory URLLC,GA,25,79.8008
+6,Factory URLLC,GA,26,80.0094
+6,Factory URLLC,GA,27,80.0472
+6,Factory URLLC,GA,28,80.2728
+6,Factory URLLC,GA,29,80.2728
+6,Factory URLLC,GA,30,80.3596
+6,Factory URLLC,GA,31,80.5088
+6,Factory URLLC,GA,32,80.5413
+6,Factory URLLC,GA,33,80.6596
+6,Factory URLLC,GA,34,80.866
+6,Factory URLLC,GA,35,80.9406
+6,Factory URLLC,GA,36,81.1347
+6,Factory URLLC,GA,37,81.1602
+6,Factory URLLC,GA,38,81.1602
+6,Factory URLLC,GA,39,81.2105
+6,Factory URLLC,GA,40,81.2904
+6,Factory URLLC,GA,41,81.4269
+6,Factory URLLC,GA,42,81.6203
+6,Factory URLLC,GA,43,81.7124
+6,Factory URLLC,GA,44,81.7203
+6,Factory URLLC,GA,45,81.7797
+6,Factory URLLC,GA,46,81.8846
+6,Factory URLLC,GA,47,81.9758
+6,Factory URLLC,GA,48,82.0471
+6,Factory URLLC,GA,49,82.0893
+6,Factory URLLC,GA,50,82.1243
+6,Factory URLLC,GA,51,82.289
+6,Factory URLLC,GA,52,82.3277
+6,Factory URLLC,GA,53,82.4558
+6,Factory URLLC,GA,54,82.5745
+6,Factory URLLC,GA,55,82.5915
+6,Factory URLLC,GA,56,82.6096
+6,Factory URLLC,GA,57,82.6921
+6,Factory URLLC,GA,58,82.7474
+6,Factory URLLC,GA,59,82.8052
+6,Factory URLLC,GA,60,82.9044
+6,Factory URLLC,PSO,1,24.0203
+6,Factory URLLC,PSO,2,41.973
+6,Factory URLLC,PSO,3,53.9713
+6,Factory URLLC,PSO,4,59.158
+6,Factory URLLC,PSO,5,65.8962
+6,Factory URLLC,PSO,6,71.2638
+6,Factory URLLC,PSO,7,72.1737
+6,Factory URLLC,PSO,8,72.595
+6,Factory URLLC,PSO,9,73.9783
+6,Factory URLLC,PSO,10,76.3216
+6,Factory URLLC,PSO,11,77.2397
+6,Factory URLLC,PSO,12,77.3305
+6,Factory URLLC,PSO,13,78.3405
+6,Factory URLLC,PSO,14,78.5725
+6,Factory URLLC,PSO,15,78.7496
+6,Factory URLLC,PSO,16,79.0089
+6,Factory URLLC,PSO,17,79.079
+6,Factory URLLC,PSO,18,79.3314
+6,Factory URLLC,PSO,19,79.3371
+6,Factory URLLC,PSO,20,79.6219
+6,Factory URLLC,PSO,21,80.3717
+6,Factory URLLC,PSO,22,80.6174
+6,Factory URLLC,PSO,23,80.9111
+6,Factory URLLC,PSO,24,81.2493
+6,Factory URLLC,PSO,25,81.3323
+6,Factory URLLC,PSO,26,81.6245
+6,Factory URLLC,PSO,27,81.8441
+6,Factory URLLC,PSO,28,82.111
+6,Factory URLLC,PSO,29,82.3946
+6,Factory URLLC,PSO,30,82.567
+6,Factory URLLC,PSO,31,82.945
+6,Factory URLLC,PSO,32,83.2982
+6,Factory URLLC,PSO,33,83.5021
+6,Factory URLLC,PSO,34,83.7006
+6,Factory URLLC,PSO,35,84.0793
+6,Factory URLLC,PSO,36,84.2682
+6,Factory URLLC,PSO,37,84.4205
+6,Factory URLLC,PSO,38,84.5412
+6,Factory URLLC,PSO,39,84.7232
+6,Factory URLLC,PSO,40,84.8221
+6,Factory URLLC,PSO,41,84.9723
+6,Factory URLLC,PSO,42,85.2973
+6,Factory URLLC,PSO,43,85.5255
+6,Factory URLLC,PSO,44,85.5668
+6,Factory URLLC,PSO,45,85.7041
+6,Factory URLLC,PSO,46,85.8957
+6,Factory URLLC,PSO,47,86.049
+6,Factory URLLC,PSO,48,86.0993
+6,Factory URLLC,PSO,49,86.2766
+6,Factory URLLC,PSO,50,86.3933
+6,Factory URLLC,PSO,51,86.531
+6,Factory URLLC,PSO,52,86.6687
+6,Factory URLLC,PSO,53,86.8199
+6,Factory URLLC,PSO,54,86.8431
+6,Factory URLLC,PSO,55,86.8847
+6,Factory URLLC,PSO,56,87.1008
+6,Factory URLLC,PSO,57,87.1229
+6,Factory URLLC,PSO,58,87.2741
+6,Factory URLLC,PSO,59,87.4045
+6,Factory URLLC,PSO,60,87.4366
+6,Factory URLLC,DE,1,24.0203
+6,Factory URLLC,DE,2,41.973
+6,Factory URLLC,DE,3,53.9713
+6,Factory URLLC,DE,4,59.158
+6,Factory URLLC,DE,5,65.8962
+6,Factory URLLC,DE,6,71.2638
+6,Factory URLLC,DE,7,72.1737
+6,Factory URLLC,DE,8,72.595
+6,Factory URLLC,DE,9,73.9783
+6,Factory URLLC,DE,10,76.3216
+6,Factory URLLC,DE,11,77.0555
+6,Factory URLLC,DE,12,77.4362
+6,Factory URLLC,DE,13,77.6269
+6,Factory URLLC,DE,14,77.6489
+6,Factory URLLC,DE,15,78.0634
+6,Factory URLLC,DE,16,78.1277
+6,Factory URLLC,DE,17,78.7759
+6,Factory URLLC,DE,18,78.8692
+6,Factory URLLC,DE,19,79.1524
+6,Factory URLLC,DE,20,79.2163
+6,Factory URLLC,DE,21,79.4456
+6,Factory URLLC,DE,22,79.6999
+6,Factory URLLC,DE,23,80.0143
+6,Factory URLLC,DE,24,80.1943
+6,Factory URLLC,DE,25,80.1943
+6,Factory URLLC,DE,26,80.3295
+6,Factory URLLC,DE,27,80.4475
+6,Factory URLLC,DE,28,80.775
+6,Factory URLLC,DE,29,80.8517
+6,Factory URLLC,DE,30,80.9858
+6,Factory URLLC,DE,31,81.2244
+6,Factory URLLC,DE,32,81.2852
+6,Factory URLLC,DE,33,81.4611
+6,Factory URLLC,DE,34,81.6519
+6,Factory URLLC,DE,35,81.7089
+6,Factory URLLC,DE,36,81.7748
+6,Factory URLLC,DE,37,81.7748
+6,Factory URLLC,DE,38,81.7748
+6,Factory URLLC,DE,39,82.0392
+6,Factory URLLC,DE,40,82.0392
+6,Factory URLLC,DE,41,82.1269
+6,Factory URLLC,DE,42,82.1269
+6,Factory URLLC,DE,43,82.2416
+6,Factory URLLC,DE,44,82.3031
+6,Factory URLLC,DE,45,82.4638
+6,Factory URLLC,DE,46,82.6089
+6,Factory URLLC,DE,47,82.7724
+6,Factory URLLC,DE,48,82.8949
+6,Factory URLLC,DE,49,82.9398
+6,Factory URLLC,DE,50,82.9598
+6,Factory URLLC,DE,51,82.9842
+6,Factory URLLC,DE,52,83.1689
+6,Factory URLLC,DE,53,83.2171
+6,Factory URLLC,DE,54,83.2417
+6,Factory URLLC,DE,55,83.2417
+6,Factory URLLC,DE,56,83.4132
+6,Factory URLLC,DE,57,83.4132
+6,Factory URLLC,DE,58,83.4595
+6,Factory URLLC,DE,59,83.5598
+6,Factory URLLC,DE,60,83.6051
+6,Factory URLLC,Bayesian,1,24.0203
+6,Factory URLLC,Bayesian,2,41.973
+6,Factory URLLC,Bayesian,3,53.9713
+6,Factory URLLC,Bayesian,4,59.158
+6,Factory URLLC,Bayesian,5,65.8962
+6,Factory URLLC,Bayesian,6,71.2638
+6,Factory URLLC,Bayesian,7,72.1737
+6,Factory URLLC,Bayesian,8,72.595
+6,Factory URLLC,Bayesian,9,74.7868
+6,Factory URLLC,Bayesian,10,75.5295
+6,Factory URLLC,Bayesian,11,77.3992
+6,Factory URLLC,Bayesian,12,78.049
+6,Factory URLLC,Bayesian,13,79.5794
+6,Factory URLLC,Bayesian,14,80.1932
+6,Factory URLLC,Bayesian,15,80.4388
+6,Factory URLLC,Bayesian,16,80.9621
+6,Factory URLLC,Bayesian,17,81.2063
+6,Factory URLLC,Bayesian,18,81.521
+6,Factory URLLC,Bayesian,19,82.2368
+6,Factory URLLC,Bayesian,20,82.8785
+6,Factory URLLC,Bayesian,21,83.0795
+6,Factory URLLC,Bayesian,22,83.0981
+6,Factory URLLC,Bayesian,23,83.3397
+6,Factory URLLC,Bayesian,24,83.423
+6,Factory URLLC,Bayesian,25,83.5805
+6,Factory URLLC,Bayesian,26,83.9298
+6,Factory URLLC,Bayesian,27,84.079
+6,Factory URLLC,Bayesian,28,84.3029
+6,Factory URLLC,Bayesian,29,84.4136
+6,Factory URLLC,Bayesian,30,84.6801
+6,Factory URLLC,Bayesian,31,84.8935
+6,Factory URLLC,Bayesian,32,84.9232
+6,Factory URLLC,Bayesian,33,84.9749
+6,Factory URLLC,Bayesian,34,84.9928
+6,Factory URLLC,Bayesian,35,85.0871
+6,Factory URLLC,Bayesian,36,85.1645
+6,Factory URLLC,Bayesian,37,85.1645
+6,Factory URLLC,Bayesian,38,85.1645
+6,Factory URLLC,Bayesian,39,85.3009
+6,Factory URLLC,Bayesian,40,85.3666
+6,Factory URLLC,Bayesian,41,85.445
+6,Factory URLLC,Bayesian,42,85.6203
+6,Factory URLLC,Bayesian,43,85.7958
+6,Factory URLLC,Bayesian,44,85.8111
+6,Factory URLLC,Bayesian,45,85.9563
+6,Factory URLLC,Bayesian,46,86.0615
+6,Factory URLLC,Bayesian,47,86.137
+6,Factory URLLC,Bayesian,48,86.1741
+6,Factory URLLC,Bayesian,49,86.1906
+6,Factory URLLC,Bayesian,50,86.3221
+6,Factory URLLC,Bayesian,51,86.3653
+6,Factory URLLC,Bayesian,52,86.4875
+6,Factory URLLC,Bayesian,53,86.5382
+6,Factory URLLC,Bayesian,54,86.5558
+6,Factory URLLC,Bayesian,55,86.6282
+6,Factory URLLC,Bayesian,56,86.6414
+6,Factory URLLC,Bayesian,57,86.7094
+6,Factory URLLC,Bayesian,58,86.7316
+6,Factory URLLC,Bayesian,59,86.7711
+6,Factory URLLC,Bayesian,60,87.0122
+6,Factory URLLC,Random,1,24.0203
+6,Factory URLLC,Random,2,41.973
+6,Factory URLLC,Random,3,53.9713
+6,Factory URLLC,Random,4,59.158
+6,Factory URLLC,Random,5,65.8962
+6,Factory URLLC,Random,6,71.2638
+6,Factory URLLC,Random,7,72.1737
+6,Factory URLLC,Random,8,72.595
+6,Factory URLLC,Random,9,73.9783
+6,Factory URLLC,Random,10,76.3216
+6,Factory URLLC,Random,11,77.0555
+6,Factory URLLC,Random,12,77.4362
+6,Factory URLLC,Random,13,77.9684
+6,Factory URLLC,Random,14,78.034
+6,Factory URLLC,Random,15,78.3182
+6,Factory URLLC,Random,16,78.9595
+6,Factory URLLC,Random,17,79.1295
+6,Factory URLLC,Random,18,79.6666
+6,Factory URLLC,Random,19,79.7035
+6,Factory URLLC,Random,20,79.9903
+6,Factory URLLC,Random,21,79.9978
+6,Factory URLLC,Random,22,80.0057
+6,Factory URLLC,Random,23,80.126
+6,Factory URLLC,Random,24,80.126
+6,Factory URLLC,Random,25,80.2186
+6,Factory URLLC,Random,26,80.2186
+6,Factory URLLC,Random,27,80.5011
+6,Factory URLLC,Random,28,80.5488
+6,Factory URLLC,Random,29,80.5488
+6,Factory URLLC,Random,30,80.5488
+6,Factory URLLC,Random,31,80.9097
+6,Factory URLLC,Random,32,80.9097
+6,Factory URLLC,Random,33,81.2149
+6,Factory URLLC,Random,34,81.3071
+6,Factory URLLC,Random,35,81.4294
+6,Factory URLLC,Random,36,81.6897
+6,Factory URLLC,Random,37,81.7533
+6,Factory URLLC,Random,38,81.9494
+6,Factory URLLC,Random,39,82.2042
+6,Factory URLLC,Random,40,82.4999
+6,Factory URLLC,Random,41,82.4999
+6,Factory URLLC,Random,42,82.5212
+6,Factory URLLC,Random,43,82.7283
+6,Factory URLLC,Random,44,82.8682
+6,Factory URLLC,Random,45,82.9635
+6,Factory URLLC,Random,46,82.9635
+6,Factory URLLC,Random,47,82.9635
+6,Factory URLLC,Random,48,82.9912
+6,Factory URLLC,Random,49,83.045
+6,Factory URLLC,Random,50,83.045
+6,Factory URLLC,Random,51,83.1648
+6,Factory URLLC,Random,52,83.195
+6,Factory URLLC,Random,53,83.195
+6,Factory URLLC,Random,54,83.195
+6,Factory URLLC,Random,55,83.3301
+6,Factory URLLC,Random,56,83.3301
+6,Factory URLLC,Random,57,83.3581
+6,Factory URLLC,Random,58,83.3581
+6,Factory URLLC,Random,59,83.3581
+6,Factory URLLC,Random,60,83.3581
+7,Suburban eMBB,GA,1,26.9998
+7,Suburban eMBB,GA,2,45.4435
+7,Suburban eMBB,GA,3,53.8652
+7,Suburban eMBB,GA,4,57.2108
+7,Suburban eMBB,GA,5,63.1997
+7,Suburban eMBB,GA,6,65.8316
+7,Suburban eMBB,GA,7,66.1063
+7,Suburban eMBB,GA,8,66.5425
+7,Suburban eMBB,GA,9,67.2547
+7,Suburban eMBB,GA,10,68.1568
+7,Suburban eMBB,GA,11,69.0256
+7,Suburban eMBB,GA,12,70.0186
+7,Suburban eMBB,GA,13,70.3974
+7,Suburban eMBB,GA,14,70.4461
+7,Suburban eMBB,GA,15,70.5709
+7,Suburban eMBB,GA,16,70.5709
+7,Suburban eMBB,GA,17,70.6197
+7,Suburban eMBB,GA,18,70.6197
+7,Suburban eMBB,GA,19,70.8019
+7,Suburban eMBB,GA,20,70.9081
+7,Suburban eMBB,GA,21,71.1625
+7,Suburban eMBB,GA,22,71.5327
+7,Suburban eMBB,GA,23,72.2823
+7,Suburban eMBB,GA,24,72.298
+7,Suburban eMBB,GA,25,72.6684
+7,Suburban eMBB,GA,26,72.7285
+7,Suburban eMBB,GA,27,73.2742
+7,Suburban eMBB,GA,28,73.8088
+7,Suburban eMBB,GA,29,74.2239
+7,Suburban eMBB,GA,30,74.551
+7,Suburban eMBB,GA,31,74.7421
+7,Suburban eMBB,GA,32,74.7858
+7,Suburban eMBB,GA,33,74.9412
+7,Suburban eMBB,GA,34,75.0065
+7,Suburban eMBB,GA,35,75.6053
+7,Suburban eMBB,GA,36,75.7835
+7,Suburban eMBB,GA,37,75.7962
+7,Suburban eMBB,GA,38,75.9491
+7,Suburban eMBB,GA,39,76.2169
+7,Suburban eMBB,GA,40,76.4158
+7,Suburban eMBB,GA,41,76.4178
+7,Suburban eMBB,GA,42,76.7185
+7,Suburban eMBB,GA,43,76.7334
+7,Suburban eMBB,GA,44,76.7578
+7,Suburban eMBB,GA,45,76.8167
+7,Suburban eMBB,GA,46,77.5411
+7,Suburban eMBB,GA,47,77.7804
+7,Suburban eMBB,GA,48,77.7804
+7,Suburban eMBB,GA,49,77.9366
+7,Suburban eMBB,GA,50,77.9803
+7,Suburban eMBB,GA,51,78.5619
+7,Suburban eMBB,GA,52,78.8229
+7,Suburban eMBB,GA,53,79.2339
+7,Suburban eMBB,GA,54,79.3032
+7,Suburban eMBB,GA,55,79.5053
+7,Suburban eMBB,GA,56,79.8856
+7,Suburban eMBB,GA,57,80.0194
+7,Suburban eMBB,GA,58,80.0194
+7,Suburban eMBB,GA,59,80.3406
+7,Suburban eMBB,GA,60,80.3406
+7,Suburban eMBB,PSO,1,26.9998
+7,Suburban eMBB,PSO,2,45.4435
+7,Suburban eMBB,PSO,3,53.8652
+7,Suburban eMBB,PSO,4,57.2108
+7,Suburban eMBB,PSO,5,63.1997
+7,Suburban eMBB,PSO,6,65.8316
+7,Suburban eMBB,PSO,7,66.1063
+7,Suburban eMBB,PSO,8,66.5425
+7,Suburban eMBB,PSO,9,67.2547
+7,Suburban eMBB,PSO,10,68.1568
+7,Suburban eMBB,PSO,11,68.9926
+7,Suburban eMBB,PSO,12,69.4216
+7,Suburban eMBB,PSO,13,69.9367
+7,Suburban eMBB,PSO,14,70.6556
+7,Suburban eMBB,PSO,15,71.0159
+7,Suburban eMBB,PSO,16,71.2875
+7,Suburban eMBB,PSO,17,71.7649
+7,Suburban eMBB,PSO,18,72.0896
+7,Suburban eMBB,PSO,19,72.7565
+7,Suburban eMBB,PSO,20,73.4419
+7,Suburban eMBB,PSO,21,74.9853
+7,Suburban eMBB,PSO,22,76.4422
+7,Suburban eMBB,PSO,23,76.9732
+7,Suburban eMBB,PSO,24,77.3324
+7,Suburban eMBB,PSO,25,77.914
+7,Suburban eMBB,PSO,26,78.6097
+7,Suburban eMBB,PSO,27,78.6891
+7,Suburban eMBB,PSO,28,79.0934
+7,Suburban eMBB,PSO,29,79.717
+7,Suburban eMBB,PSO,30,80.0541
+7,Suburban eMBB,PSO,31,81.0252
+7,Suburban eMBB,PSO,32,82.3442
+7,Suburban eMBB,PSO,33,82.5393
+7,Suburban eMBB,PSO,34,83.0536
+7,Suburban eMBB,PSO,35,83.7568
+7,Suburban eMBB,PSO,36,84.4736
+7,Suburban eMBB,PSO,37,84.6716
+7,Suburban eMBB,PSO,38,84.8266
+7,Suburban eMBB,PSO,39,85.0324
+7,Suburban eMBB,PSO,40,85.321
+7,Suburban eMBB,PSO,41,85.8909
+7,Suburban eMBB,PSO,42,86.3307
+7,Suburban eMBB,PSO,43,86.8828
+7,Suburban eMBB,PSO,44,86.9366
+7,Suburban eMBB,PSO,45,87.0679
+7,Suburban eMBB,PSO,46,87.339
+7,Suburban eMBB,PSO,47,87.6537
+7,Suburban eMBB,PSO,48,87.7922
+7,Suburban eMBB,PSO,49,88.0011
+7,Suburban eMBB,PSO,50,88.0625
+7,Suburban eMBB,PSO,51,88.3299
+7,Suburban eMBB,PSO,52,88.6051
+7,Suburban eMBB,PSO,53,88.8845
+7,Suburban eMBB,PSO,54,89.2048
+7,Suburban eMBB,PSO,55,89.616
+7,Suburban eMBB,PSO,56,90.0748
+7,Suburban eMBB,PSO,57,90.2064
+7,Suburban eMBB,PSO,58,90.488
+7,Suburban eMBB,PSO,59,90.5153
+7,Suburban eMBB,PSO,60,90.5907
+7,Suburban eMBB,DE,1,26.9998
+7,Suburban eMBB,DE,2,45.4435
+7,Suburban eMBB,DE,3,53.8652
+7,Suburban eMBB,DE,4,57.2108
+7,Suburban eMBB,DE,5,63.1997
+7,Suburban eMBB,DE,6,65.8316
+7,Suburban eMBB,DE,7,66.1063
+7,Suburban eMBB,DE,8,66.5425
+7,Suburban eMBB,DE,9,67.2547
+7,Suburban eMBB,DE,10,68.1568
+7,Suburban eMBB,DE,11,68.8557
+7,Suburban eMBB,DE,12,68.8557
+7,Suburban eMBB,DE,13,69.0326
+7,Suburban eMBB,DE,14,69.0326
+7,Suburban eMBB,DE,15,69.047
+7,Suburban eMBB,DE,16,69.0837
+7,Suburban eMBB,DE,17,69.3801
+7,Suburban eMBB,DE,18,69.6296
+7,Suburban eMBB,DE,19,69.8032
+7,Suburban eMBB,DE,20,69.9353
+7,Suburban eMBB,DE,21,70.0803
+7,Suburban eMBB,DE,22,70.1839
+7,Suburban eMBB,DE,23,70.5273
+7,Suburban eMBB,DE,24,70.6135
+7,Suburban eMBB,DE,25,70.8868
+7,Suburban eMBB,DE,26,71.1886
+7,Suburban eMBB,DE,27,71.5781
+7,Suburban eMBB,DE,28,71.5781
+7,Suburban eMBB,DE,29,72.2314
+7,Suburban eMBB,DE,30,72.2412
+7,Suburban eMBB,DE,31,72.8113
+7,Suburban eMBB,DE,32,72.8782
+7,Suburban eMBB,DE,33,73.2488
+7,Suburban eMBB,DE,34,74.1487
+7,Suburban eMBB,DE,35,74.1833
+7,Suburban eMBB,DE,36,74.1833
+7,Suburban eMBB,DE,37,74.5318
+7,Suburban eMBB,DE,38,74.5318
+7,Suburban eMBB,DE,39,74.9426
+7,Suburban eMBB,DE,40,74.9803
+7,Suburban eMBB,DE,41,76.0156
+7,Suburban eMBB,DE,42,76.1885
+7,Suburban eMBB,DE,43,76.2753
+7,Suburban eMBB,DE,44,76.7302
+7,Suburban eMBB,DE,45,76.7432
+7,Suburban eMBB,DE,46,76.8399
+7,Suburban eMBB,DE,47,76.9751
+7,Suburban eMBB,DE,48,76.9751
+7,Suburban eMBB,DE,49,76.9751
+7,Suburban eMBB,DE,50,77.1718
+7,Suburban eMBB,DE,51,77.1718
+7,Suburban eMBB,DE,52,77.603
+7,Suburban eMBB,DE,53,77.924
+7,Suburban eMBB,DE,54,77.9417
+7,Suburban eMBB,DE,55,77.9857
+7,Suburban eMBB,DE,56,78.4534
+7,Suburban eMBB,DE,57,78.6884
+7,Suburban eMBB,DE,58,78.8231
+7,Suburban eMBB,DE,59,79.2495
+7,Suburban eMBB,DE,60,79.2495
+7,Suburban eMBB,Bayesian,1,26.9998
+7,Suburban eMBB,Bayesian,2,45.4435
+7,Suburban eMBB,Bayesian,3,53.8652
+7,Suburban eMBB,Bayesian,4,57.2108
+7,Suburban eMBB,Bayesian,5,63.1997
+7,Suburban eMBB,Bayesian,6,65.8316
+7,Suburban eMBB,Bayesian,7,66.1063
+7,Suburban eMBB,Bayesian,8,66.5425
+7,Suburban eMBB,Bayesian,9,68.0152
+7,Suburban eMBB,Bayesian,10,68.6363
+7,Suburban eMBB,Bayesian,11,69.7212
+7,Suburban eMBB,Bayesian,12,70.3324
+7,Suburban eMBB,Bayesian,13,71.0878
+7,Suburban eMBB,Bayesian,14,72.1273
+7,Suburban eMBB,Bayesian,15,72.4383
+7,Suburban eMBB,Bayesian,16,72.6745
+7,Suburban eMBB,Bayesian,17,73.7398
+7,Suburban eMBB,Bayesian,18,74.608
+7,Suburban eMBB,Bayesian,19,76.4747
+7,Suburban eMBB,Bayesian,20,76.8284
+7,Suburban eMBB,Bayesian,21,77.4333
+7,Suburban eMBB,Bayesian,22,78.6165
+7,Suburban eMBB,Bayesian,23,78.8253
+7,Suburban eMBB,Bayesian,24,79.8755
+7,Suburban eMBB,Bayesian,25,80.4459
+7,Suburban eMBB,Bayesian,26,81.0273
+7,Suburban eMBB,Bayesian,27,81.3632
+7,Suburban eMBB,Bayesian,28,81.8272
+7,Suburban eMBB,Bayesian,29,81.8893
+7,Suburban eMBB,Bayesian,30,82.1543
+7,Suburban eMBB,Bayesian,31,82.7394
+7,Suburban eMBB,Bayesian,32,83.3895
+7,Suburban eMBB,Bayesian,33,83.8072
+7,Suburban eMBB,Bayesian,34,84.1759
+7,Suburban eMBB,Bayesian,35,84.3633
+7,Suburban eMBB,Bayesian,36,85.123
+7,Suburban eMBB,Bayesian,37,85.123
+7,Suburban eMBB,Bayesian,38,85.2464
+7,Suburban eMBB,Bayesian,39,85.2506
+7,Suburban eMBB,Bayesian,40,85.5511
+7,Suburban eMBB,Bayesian,41,85.9717
+7,Suburban eMBB,Bayesian,42,86.0699
+7,Suburban eMBB,Bayesian,43,86.0699
+7,Suburban eMBB,Bayesian,44,86.2682
+7,Suburban eMBB,Bayesian,45,86.2682
+7,Suburban eMBB,Bayesian,46,86.5035
+7,Suburban eMBB,Bayesian,47,86.5358
+7,Suburban eMBB,Bayesian,48,86.9443
+7,Suburban eMBB,Bayesian,49,87.3588
+7,Suburban eMBB,Bayesian,50,87.8141
+7,Suburban eMBB,Bayesian,51,87.8737
+7,Suburban eMBB,Bayesian,52,88.5891
+7,Suburban eMBB,Bayesian,53,88.7171
+7,Suburban eMBB,Bayesian,54,88.8443
+7,Suburban eMBB,Bayesian,55,88.9028
+7,Suburban eMBB,Bayesian,56,89.3947
+7,Suburban eMBB,Bayesian,57,89.5417
+7,Suburban eMBB,Bayesian,58,89.7784
+7,Suburban eMBB,Bayesian,59,89.8604
+7,Suburban eMBB,Bayesian,60,90.2227
+7,Suburban eMBB,Random,1,26.9998
+7,Suburban eMBB,Random,2,45.4435
+7,Suburban eMBB,Random,3,53.8652
+7,Suburban eMBB,Random,4,57.2108
+7,Suburban eMBB,Random,5,63.1997
+7,Suburban eMBB,Random,6,65.8316
+7,Suburban eMBB,Random,7,66.1063
+7,Suburban eMBB,Random,8,66.5425
+7,Suburban eMBB,Random,9,67.2547
+7,Suburban eMBB,Random,10,68.1568
+7,Suburban eMBB,Random,11,68.8557
+7,Suburban eMBB,Random,12,68.8557
+7,Suburban eMBB,Random,13,69.5748
+7,Suburban eMBB,Random,14,69.7522
+7,Suburban eMBB,Random,15,70.1166
+7,Suburban eMBB,Random,16,71.223
+7,Suburban eMBB,Random,17,71.9861
+7,Suburban eMBB,Random,18,72.3617
+7,Suburban eMBB,Random,19,72.3944
+7,Suburban eMBB,Random,20,72.5433
+7,Suburban eMBB,Random,21,72.5954
+7,Suburban eMBB,Random,22,73.18
+7,Suburban eMBB,Random,23,73.18
+7,Suburban eMBB,Random,24,74.6389
+7,Suburban eMBB,Random,25,74.7877
+7,Suburban eMBB,Random,26,74.847
+7,Suburban eMBB,Random,27,75.4574
+7,Suburban eMBB,Random,28,75.5433
+7,Suburban eMBB,Random,29,75.5433
+7,Suburban eMBB,Random,30,75.7376
+7,Suburban eMBB,Random,31,76.1998
+7,Suburban eMBB,Random,32,76.1998
+7,Suburban eMBB,Random,33,76.7915
+7,Suburban eMBB,Random,34,76.7915
+7,Suburban eMBB,Random,35,77.2621
+7,Suburban eMBB,Random,36,77.2944
+7,Suburban eMBB,Random,37,77.3365
+7,Suburban eMBB,Random,38,77.6594
+7,Suburban eMBB,Random,39,77.6594
+7,Suburban eMBB,Random,40,77.9753
+7,Suburban eMBB,Random,41,77.9753
+7,Suburban eMBB,Random,42,78.0415
+7,Suburban eMBB,Random,43,78.4125
+7,Suburban eMBB,Random,44,78.578
+7,Suburban eMBB,Random,45,78.6571
+7,Suburban eMBB,Random,46,78.6571
+7,Suburban eMBB,Random,47,78.6571
+7,Suburban eMBB,Random,48,78.8195
+7,Suburban eMBB,Random,49,78.8195
+7,Suburban eMBB,Random,50,78.9182
+7,Suburban eMBB,Random,51,78.9182
+7,Suburban eMBB,Random,52,78.9182
+7,Suburban eMBB,Random,53,78.9284
+7,Suburban eMBB,Random,54,79.2238
+7,Suburban eMBB,Random,55,79.2238
+7,Suburban eMBB,Random,56,79.7498
+7,Suburban eMBB,Random,57,79.7498
+7,Suburban eMBB,Random,58,80.3696
+7,Suburban eMBB,Random,59,80.7369
+7,Suburban eMBB,Random,60,81.0014
+8,Smart-grid mMTC,GA,1,38.3812
+8,Smart-grid mMTC,GA,2,55.5535
+8,Smart-grid mMTC,GA,3,64.3426
+8,Smart-grid mMTC,GA,4,67.7506
+8,Smart-grid mMTC,GA,5,73.0879
+8,Smart-grid mMTC,GA,6,76.2601
+8,Smart-grid mMTC,GA,7,76.8288
+8,Smart-grid mMTC,GA,8,77.406
+8,Smart-grid mMTC,GA,9,78.0677
+8,Smart-grid mMTC,GA,10,79.5192
+8,Smart-grid mMTC,GA,11,80.1775
+8,Smart-grid mMTC,GA,12,80.5186
+8,Smart-grid mMTC,GA,13,81.2609
+8,Smart-grid mMTC,GA,14,81.3685
+8,Smart-grid mMTC,GA,15,81.3685
+8,Smart-grid mMTC,GA,16,81.3714
+8,Smart-grid mMTC,GA,17,81.6183
+8,Smart-grid mMTC,GA,18,81.6769
+8,Smart-grid mMTC,GA,19,81.7947
+8,Smart-grid mMTC,GA,20,81.8941
+8,Smart-grid mMTC,GA,21,82.2058
+8,Smart-grid mMTC,GA,22,82.4621
+8,Smart-grid mMTC,GA,23,82.6006
+8,Smart-grid mMTC,GA,24,82.8605
+8,Smart-grid mMTC,GA,25,82.9591
+8,Smart-grid mMTC,GA,26,83.1874
+8,Smart-grid mMTC,GA,27,83.261
+8,Smart-grid mMTC,GA,28,83.5025
+8,Smart-grid mMTC,GA,29,83.5129
+8,Smart-grid mMTC,GA,30,83.5488
+8,Smart-grid mMTC,GA,31,83.9661
+8,Smart-grid mMTC,GA,32,84.0187
+8,Smart-grid mMTC,GA,33,84.14
+8,Smart-grid mMTC,GA,34,84.1867
+8,Smart-grid mMTC,GA,35,84.307
+8,Smart-grid mMTC,GA,36,84.3304
+8,Smart-grid mMTC,GA,37,84.5533
+8,Smart-grid mMTC,GA,38,84.7924
+8,Smart-grid mMTC,GA,39,84.8389
+8,Smart-grid mMTC,GA,40,84.9128
+8,Smart-grid mMTC,GA,41,85.1713
+8,Smart-grid mMTC,GA,42,85.285
+8,Smart-grid mMTC,GA,43,85.3841
+8,Smart-grid mMTC,GA,44,85.3841
+8,Smart-grid mMTC,GA,45,85.511
+8,Smart-grid mMTC,GA,46,85.5618
+8,Smart-grid mMTC,GA,47,85.6693
+8,Smart-grid mMTC,GA,48,85.7353
+8,Smart-grid mMTC,GA,49,85.7769
+8,Smart-grid mMTC,GA,50,85.9069
+8,Smart-grid mMTC,GA,51,86.11
+8,Smart-grid mMTC,GA,52,86.2889
+8,Smart-grid mMTC,GA,53,86.4196
+8,Smart-grid mMTC,GA,54,86.4736
+8,Smart-grid mMTC,GA,55,86.502
+8,Smart-grid mMTC,GA,56,86.6374
+8,Smart-grid mMTC,GA,57,86.7297
+8,Smart-grid mMTC,GA,58,86.7297
+8,Smart-grid mMTC,GA,59,86.7321
+8,Smart-grid mMTC,GA,60,86.8675
+8,Smart-grid mMTC,PSO,1,38.3812
+8,Smart-grid mMTC,PSO,2,55.5535
+8,Smart-grid mMTC,PSO,3,64.3426
+8,Smart-grid mMTC,PSO,4,67.7506
+8,Smart-grid mMTC,PSO,5,73.0879
+8,Smart-grid mMTC,PSO,6,76.2601
+8,Smart-grid mMTC,PSO,7,76.8288
+8,Smart-grid mMTC,PSO,8,77.406
+8,Smart-grid mMTC,PSO,9,78.0677
+8,Smart-grid mMTC,PSO,10,79.5192
+8,Smart-grid mMTC,PSO,11,79.7418
+8,Smart-grid mMTC,PSO,12,79.7624
+8,Smart-grid mMTC,PSO,13,80.7687
+8,Smart-grid mMTC,PSO,14,81.0291
+8,Smart-grid mMTC,PSO,15,81.2492
+8,Smart-grid mMTC,PSO,16,81.4894
+8,Smart-grid mMTC,PSO,17,82.0719
+8,Smart-grid mMTC,PSO,18,82.3438
+8,Smart-grid mMTC,PSO,19,82.419
+8,Smart-grid mMTC,PSO,20,82.6606
+8,Smart-grid mMTC,PSO,21,83.1773
+8,Smart-grid mMTC,PSO,22,83.7076
+8,Smart-grid mMTC,PSO,23,84.1093
+8,Smart-grid mMTC,PSO,24,84.2246
+8,Smart-grid mMTC,PSO,25,84.4872
+8,Smart-grid mMTC,PSO,26,84.9855
+8,Smart-grid mMTC,PSO,27,85.1843
+8,Smart-grid mMTC,PSO,28,85.3691
+8,Smart-grid mMTC,PSO,29,85.5842
+8,Smart-grid mMTC,PSO,30,85.7621
+8,Smart-grid mMTC,PSO,31,86.1596
+8,Smart-grid mMTC,PSO,32,86.5082
+8,Smart-grid mMTC,PSO,33,86.8303
+8,Smart-grid mMTC,PSO,34,87.0258
+8,Smart-grid mMTC,PSO,35,87.3518
+8,Smart-grid mMTC,PSO,36,87.5622
+8,Smart-grid mMTC,PSO,37,87.686
+8,Smart-grid mMTC,PSO,38,87.709
+8,Smart-grid mMTC,PSO,39,87.7937
+8,Smart-grid mMTC,PSO,40,87.9054
+8,Smart-grid mMTC,PSO,41,88.101
+8,Smart-grid mMTC,PSO,42,88.2282
+8,Smart-grid mMTC,PSO,43,88.4352
+8,Smart-grid mMTC,PSO,44,88.7446
+8,Smart-grid mMTC,PSO,45,89.0234
+8,Smart-grid mMTC,PSO,46,89.0841
+8,Smart-grid mMTC,PSO,47,89.2727
+8,Smart-grid mMTC,PSO,48,89.3478
+8,Smart-grid mMTC,PSO,49,89.6161
+8,Smart-grid mMTC,PSO,50,89.6693
+8,Smart-grid mMTC,PSO,51,89.8908
+8,Smart-grid mMTC,PSO,52,89.9132
+8,Smart-grid mMTC,PSO,53,89.9867
+8,Smart-grid mMTC,PSO,54,90.2767
+8,Smart-grid mMTC,PSO,55,90.4806
+8,Smart-grid mMTC,PSO,56,90.5062
+8,Smart-grid mMTC,PSO,57,90.5965
+8,Smart-grid mMTC,PSO,58,90.8189
+8,Smart-grid mMTC,PSO,59,90.9637
+8,Smart-grid mMTC,PSO,60,91.104
+8,Smart-grid mMTC,DE,1,38.3812
+8,Smart-grid mMTC,DE,2,55.5535
+8,Smart-grid mMTC,DE,3,64.3426
+8,Smart-grid mMTC,DE,4,67.7506
+8,Smart-grid mMTC,DE,5,73.0879
+8,Smart-grid mMTC,DE,6,76.2601
+8,Smart-grid mMTC,DE,7,76.8288
+8,Smart-grid mMTC,DE,8,77.406
+8,Smart-grid mMTC,DE,9,78.0677
+8,Smart-grid mMTC,DE,10,79.5192
+8,Smart-grid mMTC,DE,11,79.7209
+8,Smart-grid mMTC,DE,12,79.7209
+8,Smart-grid mMTC,DE,13,79.7406
+8,Smart-grid mMTC,DE,14,79.848
+8,Smart-grid mMTC,DE,15,79.8986
+8,Smart-grid mMTC,DE,16,79.9944
+8,Smart-grid mMTC,DE,17,80.2732
+8,Smart-grid mMTC,DE,18,80.6046
+8,Smart-grid mMTC,DE,19,80.6214
+8,Smart-grid mMTC,DE,20,80.7229
+8,Smart-grid mMTC,DE,21,80.7229
+8,Smart-grid mMTC,DE,22,81.1222
+8,Smart-grid mMTC,DE,23,81.1222
+8,Smart-grid mMTC,DE,24,81.1222
+8,Smart-grid mMTC,DE,25,81.1222
+8,Smart-grid mMTC,DE,26,81.2281
+8,Smart-grid mMTC,DE,27,81.7588
+8,Smart-grid mMTC,DE,28,81.9054
+8,Smart-grid mMTC,DE,29,82.0678
+8,Smart-grid mMTC,DE,30,82.0788
+8,Smart-grid mMTC,DE,31,82.2234
+8,Smart-grid mMTC,DE,32,82.438
+8,Smart-grid mMTC,DE,33,82.5009
+8,Smart-grid mMTC,DE,34,82.5395
+8,Smart-grid mMTC,DE,35,82.5395
+8,Smart-grid mMTC,DE,36,82.6587
+8,Smart-grid mMTC,DE,37,82.6587
+8,Smart-grid mMTC,DE,38,82.8306
+8,Smart-grid mMTC,DE,39,82.9548
+8,Smart-grid mMTC,DE,40,82.9856
+8,Smart-grid mMTC,DE,41,83.0202
+8,Smart-grid mMTC,DE,42,83.0202
+8,Smart-grid mMTC,DE,43,83.0366
+8,Smart-grid mMTC,DE,44,83.3143
+8,Smart-grid mMTC,DE,45,83.3293
+8,Smart-grid mMTC,DE,46,83.8391
+8,Smart-grid mMTC,DE,47,83.9892
+8,Smart-grid mMTC,DE,48,84.0126
+8,Smart-grid mMTC,DE,49,84.0505
+8,Smart-grid mMTC,DE,50,84.097
+8,Smart-grid mMTC,DE,51,84.097
+8,Smart-grid mMTC,DE,52,84.5085
+8,Smart-grid mMTC,DE,53,84.5085
+8,Smart-grid mMTC,DE,54,84.5835
+8,Smart-grid mMTC,DE,55,84.5835
+8,Smart-grid mMTC,DE,56,84.6188
+8,Smart-grid mMTC,DE,57,84.6428
+8,Smart-grid mMTC,DE,58,84.6802
+8,Smart-grid mMTC,DE,59,84.7973
+8,Smart-grid mMTC,DE,60,84.8703
+8,Smart-grid mMTC,Bayesian,1,38.3812
+8,Smart-grid mMTC,Bayesian,2,55.5535
+8,Smart-grid mMTC,Bayesian,3,64.3426
+8,Smart-grid mMTC,Bayesian,4,67.7506
+8,Smart-grid mMTC,Bayesian,5,73.0879
+8,Smart-grid mMTC,Bayesian,6,76.2601
+8,Smart-grid mMTC,Bayesian,7,76.8288
+8,Smart-grid mMTC,Bayesian,8,77.406
+8,Smart-grid mMTC,Bayesian,9,79.4566
+8,Smart-grid mMTC,Bayesian,10,80.2019
+8,Smart-grid mMTC,Bayesian,11,80.6179
+8,Smart-grid mMTC,Bayesian,12,81.4079
+8,Smart-grid mMTC,Bayesian,13,82.3161
+8,Smart-grid mMTC,Bayesian,14,82.5794
+8,Smart-grid mMTC,Bayesian,15,83.1397
+8,Smart-grid mMTC,Bayesian,16,83.3252
+8,Smart-grid mMTC,Bayesian,17,83.7443
+8,Smart-grid mMTC,Bayesian,18,83.7451
+8,Smart-grid mMTC,Bayesian,19,84.4809
+8,Smart-grid mMTC,Bayesian,20,84.7939
+8,Smart-grid mMTC,Bayesian,21,85.0105
+8,Smart-grid mMTC,Bayesian,22,85.2592
+8,Smart-grid mMTC,Bayesian,23,85.558
+8,Smart-grid mMTC,Bayesian,24,85.663
+8,Smart-grid mMTC,Bayesian,25,85.8342
+8,Smart-grid mMTC,Bayesian,26,86.004
+8,Smart-grid mMTC,Bayesian,27,86.1587
+8,Smart-grid mMTC,Bayesian,28,86.2871
+8,Smart-grid mMTC,Bayesian,29,86.7835
+8,Smart-grid mMTC,Bayesian,30,86.7835
+8,Smart-grid mMTC,Bayesian,31,86.8113
+8,Smart-grid mMTC,Bayesian,32,86.9069
+8,Smart-grid mMTC,Bayesian,33,87.0209
+8,Smart-grid mMTC,Bayesian,34,87.0209
+8,Smart-grid mMTC,Bayesian,35,87.2406
+8,Smart-grid mMTC,Bayesian,36,87.618
+8,Smart-grid mMTC,Bayesian,37,87.6586
+8,Smart-grid mMTC,Bayesian,38,87.7407
+8,Smart-grid mMTC,Bayesian,39,87.7407
+8,Smart-grid mMTC,Bayesian,40,87.8312
+8,Smart-grid mMTC,Bayesian,41,88.0452
+8,Smart-grid mMTC,Bayesian,42,88.1812
+8,Smart-grid mMTC,Bayesian,43,88.7217
+8,Smart-grid mMTC,Bayesian,44,89.0376
+8,Smart-grid mMTC,Bayesian,45,89.0936
+8,Smart-grid mMTC,Bayesian,46,89.0936
+8,Smart-grid mMTC,Bayesian,47,89.0936
+8,Smart-grid mMTC,Bayesian,48,89.408
+8,Smart-grid mMTC,Bayesian,49,89.4528
+8,Smart-grid mMTC,Bayesian,50,89.4578
+8,Smart-grid mMTC,Bayesian,51,89.5066
+8,Smart-grid mMTC,Bayesian,52,89.6619
+8,Smart-grid mMTC,Bayesian,53,89.7608
+8,Smart-grid mMTC,Bayesian,54,89.7608
+8,Smart-grid mMTC,Bayesian,55,90.0973
+8,Smart-grid mMTC,Bayesian,56,90.4284
+8,Smart-grid mMTC,Bayesian,57,90.495
+8,Smart-grid mMTC,Bayesian,58,90.616
+8,Smart-grid mMTC,Bayesian,59,90.6465
+8,Smart-grid mMTC,Bayesian,60,90.7014
+8,Smart-grid mMTC,Random,1,38.3812
+8,Smart-grid mMTC,Random,2,55.5535
+8,Smart-grid mMTC,Random,3,64.3426
+8,Smart-grid mMTC,Random,4,67.7506
+8,Smart-grid mMTC,Random,5,73.0879
+8,Smart-grid mMTC,Random,6,76.2601
+8,Smart-grid mMTC,Random,7,76.8288
+8,Smart-grid mMTC,Random,8,77.406
+8,Smart-grid mMTC,Random,9,78.0677
+8,Smart-grid mMTC,Random,10,79.5192
+8,Smart-grid mMTC,Random,11,79.7209
+8,Smart-grid mMTC,Random,12,79.7209
+8,Smart-grid mMTC,Random,13,80.8327
+8,Smart-grid mMTC,Random,14,80.8327
+8,Smart-grid mMTC,Random,15,80.8483
+8,Smart-grid mMTC,Random,16,81.2014
+8,Smart-grid mMTC,Random,17,81.3172
+8,Smart-grid mMTC,Random,18,81.6381
+8,Smart-grid mMTC,Random,19,81.738
+8,Smart-grid mMTC,Random,20,81.9954
+8,Smart-grid mMTC,Random,21,82.13
+8,Smart-grid mMTC,Random,22,82.2716
+8,Smart-grid mMTC,Random,23,82.3079
+8,Smart-grid mMTC,Random,24,82.3079
+8,Smart-grid mMTC,Random,25,82.4941
+8,Smart-grid mMTC,Random,26,82.4941
+8,Smart-grid mMTC,Random,27,82.5743
+8,Smart-grid mMTC,Random,28,82.6691
+8,Smart-grid mMTC,Random,29,82.6691
+8,Smart-grid mMTC,Random,30,82.6691
+8,Smart-grid mMTC,Random,31,83.0664
+8,Smart-grid mMTC,Random,32,83.0664
+8,Smart-grid mMTC,Random,33,83.5809
+8,Smart-grid mMTC,Random,34,83.84
+8,Smart-grid mMTC,Random,35,83.9389
+8,Smart-grid mMTC,Random,36,83.9668
+8,Smart-grid mMTC,Random,37,84.0946
+8,Smart-grid mMTC,Random,38,84.3458
+8,Smart-grid mMTC,Random,39,84.5089
+8,Smart-grid mMTC,Random,40,84.6858
+8,Smart-grid mMTC,Random,41,84.8245
+8,Smart-grid mMTC,Random,42,84.8245
+8,Smart-grid mMTC,Random,43,85.0321
+8,Smart-grid mMTC,Random,44,85.0321
+8,Smart-grid mMTC,Random,45,85.139
+8,Smart-grid mMTC,Random,46,85.2031
+8,Smart-grid mMTC,Random,47,85.2262
+8,Smart-grid mMTC,Random,48,85.2292
+8,Smart-grid mMTC,Random,49,85.241
+8,Smart-grid mMTC,Random,50,85.241
+8,Smart-grid mMTC,Random,51,85.2883
+8,Smart-grid mMTC,Random,52,85.3364
+8,Smart-grid mMTC,Random,53,85.3429
+8,Smart-grid mMTC,Random,54,85.3429
+8,Smart-grid mMTC,Random,55,85.4272
+8,Smart-grid mMTC,Random,56,85.4272
+8,Smart-grid mMTC,Random,57,85.4272
+8,Smart-grid mMTC,Random,58,85.5922
+8,Smart-grid mMTC,Random,59,85.6892
+8,Smart-grid mMTC,Random,60,85.6892

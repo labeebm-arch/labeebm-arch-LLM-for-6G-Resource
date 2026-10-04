@@ -1,3 +1,26 @@
+# Release 1.0.5
+
+Alignment with the revised Journal of Engineering manuscript (revision of
+October 2026).
+
+- Manuscript title updated to "Language-Model Priors for Resource Allocation in 6G Mobile Networks" in README, CITATION.cff, and
+  docs/MANUSCRIPT_ALIGNMENT.md.
+- Figures 2, 3, and 5 in `figures/manuscript/` replaced by the versions in the
+  revised manuscript: Figure 2 re-exported at 300 dpi with the arrow label
+  "one-evaluation prior"; Figures 3 and 5 redrawn as 4 x 2 full-page grids from
+  the same stored results. The scripts, CSV data, and draw.io source are in
+  `figures/manuscript/source/`.
+- Package, runtime, citation, and test version synchronized at 1.0.5.
+- No change to code, stored results, or tables.
+
+# Release 1.0.4
+
+- Python 3.10 dropped from the CI matrix (tomllib requires 3.11+).
+- Seed-bank regression tests compare floating-point histories within a
+  relative tolerance of 1e-9 instead of exact equality, so that the checks pass
+  across operating systems and BLAS builds. The stored reference values are
+  unchanged.
+
 # Release 1.0.3
 
 This release is the final deeply audited GitHub package aligned with the

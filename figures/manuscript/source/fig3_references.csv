@@ -1,0 +1,9 @@
+scenario_id,scenario,heuristic,llama_fewshot,qwen_fewshot
+1,Dense urban eMBB,83.3331,42.3677,60.1849
+2,Highway URLLC,86.0742,79.6054,76.6801
+3,Indoor hotspot eMBB,74.7543,60.3328,62.6688
+4,Rural mMTC,84.681,88.9088,76.8382
+5,Stadium eMBB burst,74.2627,43.1949,61.097
+6,Factory URLLC,83.6288,75.0487,78.1323
+7,Suburban eMBB,90.1264,76.2682,73.1418
+8,Smart-grid mMTC,85.1459,87.9863,86.6102

@@ -1,4 +1,4 @@
-# Deep final audit — release 1.0.3
+# Deep final audit — release 1.0.3 (carried forward to 1.0.5)
 
 **Audit date:** 2026-07-11  
 **Verification environment:** Python 3.13.5 on Linux x86_64
@@ -61,7 +61,7 @@ reference result files.
 
 - clean pre-install tree check;
 - editable-install-safe post-install verification;
-- package/runtime/citation version synchronized at 1.0.3;
+- package/runtime/citation version synchronized at 1.0.5;
 - mixed licences and SPDX headers verified;
 - JSON, YAML/CFF, CSV, and Python syntax validation;
 - complete SHA-256 manifest coverage for immutable repository files;

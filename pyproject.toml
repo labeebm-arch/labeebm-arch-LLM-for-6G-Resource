@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "llm6g-priors"
-version = "1.0.3"
+version = "1.0.5"
 description = "Reproducibility code for LLM priors in sample-efficient 6G resource allocation"
 readme = "README.md"
 requires-python = ">=3.10"

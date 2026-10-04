@@ -2,7 +2,7 @@
 
 Reproducibility code and stored results for the manuscript:
 
-> **Engineer-Free Priors from Large Language Models for 6G Resource Allocation**
+> **Language-Model Priors for Resource Allocation in 6G Mobile Networks**
 
 The work uses large language models as sources of configuration priors rather
 than replacement optimizers. It evaluates zero-shot and cross-scenario few-shot
@@ -12,7 +12,7 @@ packet-level validation is provided for ns-3 with 5G-LENA.
 
 ## Release status
 
-Version **1.0.3** is the deeply audited public-code package. It contains:
+Version **1.0.5** is the deeply audited public-code package. It contains:
 
 - the eight proxy scenarios and twelve-parameter objective;
 - GA, PSO, DE, Gaussian-process Bayesian optimization, and random search;
@@ -25,6 +25,8 @@ Version **1.0.3** is the deeply audited public-code package. It contains:
 - stored packet-level results for dense urban eMBB, highway URLLC, and rural
   mMTC;
 - scripts that regenerate Tables 3--7, Appendices A--C, and Figures 1 and 3--5;
+- the published versions of Figures 2, 3, and 5 together with the exact
+  scripts and CSV data that produce them (`figures/manuscript/source/`);
 - deep regression tests that rerun the deterministic seeded proxy histories.
 
 ## Quick verification without Ollama or ns-3

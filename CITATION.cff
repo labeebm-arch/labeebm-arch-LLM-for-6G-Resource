@@ -1,9 +1,9 @@
 cff-version: 1.2.0
 message: "Please cite the accompanying manuscript and this software release."
-title: "Large Language Model Priors for 6G Resource Allocation"
+title: "Language-Model Priors for Resource Allocation in 6G Mobile Networks"
 type: software
-version: 1.0.3
-date-released: 2026-07-11
+version: 1.0.5
+date-released: 2026-10-04
 authors:
   - name: "Authors of the accompanying manuscript"
 license: MIT
