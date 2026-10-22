@@ -93,6 +93,22 @@ python scripts/reproduce_outputs.py
 This writes nine CSV tables under `tables/` and four data-driven figures under
 `figures/generated/`. It does not overwrite any reference JSON file.
 
+Two further scripts reproduce the checks reported in Sections 5.1 and 5.6 of
+the manuscript and write their output under `results/reproduced/`:
+
+```bash
+python scripts/hardness_censoring.py        # per-scenario medians and censored restarts behind the "252 evaluations" figure
+python scripts/prior_reuse_sensitivity.py   # Holm-corrected Wilcoxon tests on n=30 and on the n=10 per-prior means
+```
+
+The hardness check is right-censored: in four of the eight scenarios random
+search never reached the knowledge-based score within 400 evaluations in 56 of
+60 restarts, so the reported median of 252 is a lower bound. The sensitivity
+script collapses the 30 repetitions to the ten stored priors and confirms that
+prior-guided PSO remains significant against all five cold baselines in all
+eight scenarios; the same test finds no significant difference between the full
+ensemble seed and the heuristic-only seed.
+
 ## Exact seeded-study rerun from the historical priors
 
 The defaults point to the recovered ten-configuration seed banks:

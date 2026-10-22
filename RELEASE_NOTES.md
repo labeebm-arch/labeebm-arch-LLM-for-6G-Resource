@@ -10,8 +10,17 @@ October 2026).
   "one-evaluation prior"; Figures 3 and 5 redrawn as 4 x 2 full-page grids from
   the same stored results. The scripts, CSV data, and draw.io source are in
   `figures/manuscript/source/`.
+- Figure 1 redrawn by `figures/manuscript/source/plot_fig1.py` (1 x 2, 300 dpi,
+  same stored histories, CSV beside the script) to replace the cropped image of
+  the earlier submission.
+- `scripts/hardness_censoring.py` and `scripts/prior_reuse_sensitivity.py`
+  added; they reproduce the censoring report of Section 5.1 and the
+  prior-reuse sensitivity check of Section 5.6 (22 October 2026 revision).
+- CITATION.cff now names the three authors.
+- Manifest checksums recomputed on LF-normalized files after the CI failure
+  of 22 October 2026.
 - Package, runtime, citation, and test version synchronized at 1.0.5.
-- No change to code, stored results, or tables.
+- No change to the stored results or to the regenerated tables.
 
 # Release 1.0.4
 
