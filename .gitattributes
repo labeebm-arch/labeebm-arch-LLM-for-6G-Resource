@@ -14,3 +14,8 @@
 *.txt text eol=lf
 *.cc text eol=lf
 *.sha256 text eol=lf
+*.pdf binary
+*.drawio text eol=lf
+.gitattributes text eol=lf
+.gitignore text eol=lf
+LICENSE text eol=lf
